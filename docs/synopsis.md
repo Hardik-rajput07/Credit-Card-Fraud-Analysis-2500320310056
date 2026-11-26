@@ -34,7 +34,7 @@ rules can catch it.
 
 What I will do:
 
-\- Use a public credit card fraud dataset (a smaller sample if it is too big)
+\- Use a synthetic credit card dataset made with a Python script
 
 \- Clean the data, build the fraud rules, write SQL queries, make a dashboard
 
@@ -54,9 +54,9 @@ What I will do:
 
 **5.Data Source:**
 
-A public credit card fraud dataset from Kaggle. I will write the exact source,
+A synthetic (fake) credit card dataset that I made with a Python script
 
-licence and column details in docs/dataset.md.
+(src/generate\_data.py). The details are in docs/dataset.md.
 
 
 

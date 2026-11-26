@@ -112,7 +112,7 @@ Limits:
 
 **5. Data Requirements**
 
-\- Source: a public credit card fraud dataset from Kaggle
+\- Source: a synthetic dataset made with src/generate\_data.py
 
 \- Columns I need: card ID, transaction time, amount, merchant category,
 
