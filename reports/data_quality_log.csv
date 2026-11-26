@@ -1,0 +1,21 @@
+issue,rule_applied,rows_affected
+cards: duplicate rows,"keep the first copy, remove the repeats",10
+cards: card_type with wrong case or spaces,"strip spaces and use one spelling (Visa, Mastercard, RuPay)",59
+cards: negative credit_limit,"a limit cannot be negative, so set it to empty",5
+cards: empty credit_limit,fill with the median limit (50000),39
+cards: empty home_city,fill with 'Unknown',12
+merchants: duplicate rows,"keep the first copy, remove the repeats",3
+merchants: merchant_category with wrong case or spaces,strip spaces and make all small letters,5
+merchants: empty city,fill with 'Unknown',2
+transactions: duplicate rows,"keep the first copy, remove the repeats",364
+transactions: dates in DD-MM-YYYY format,read both formats and save all as YYYY-MM-DD HH:MM:SS,1812
+transactions: date could not be read,remove the row (saved in rejected_rows.csv),0
+transactions: city with wrong case or spaces,strip spaces and use capital first letter,1752
+transactions: channel with wrong case or spaces,"strip spaces and use one spelling (Online, POS)",1501
+transactions: empty city,fill with 'Unknown',549
+transactions: empty channel,fill with 'Unknown',244
+transactions: empty amount,"remove the row, because a payment needs an amount (saved in rejected_rows.csv)",194
+transactions: zero or negative amount,"remove the row, because a payment must be more than 0 (saved in rejected_rows.csv)",25
+transactions: card_id not in cards.csv,"remove the row, because the card does not exist (saved in rejected_rows.csv)",15
+transactions: merchant_id not in merchants.csv,"remove the row, because the shop does not exist (saved in rejected_rows.csv)",0
+transactions: no hour column,make 'hour' (0 to 23) from transaction_time,60438

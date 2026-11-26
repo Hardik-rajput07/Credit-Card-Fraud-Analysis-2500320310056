@@ -1,0 +1,612 @@
+file,reason,card_id,card_type,home_city,credit_limit,issue_date,merchant_id,merchant_name,merchant_category,city,transaction_id,transaction_time,amount,channel,is_fraud
+cards,duplicate row,4851131626822205.0,Visa,Lucknow,-50000.0,2021-01-04,,,,,,,,,
+cards,duplicate row,4336285830427361.0,Visa,Lucknow,50000.0,2018-10-02,,,,,,,,,
+cards,duplicate row,4253383353839187.0,RuPay,Pune,50000.0,2020-12-24,,,,,,,,,
+cards,duplicate row,4021831391645811.0,Visa,Pune,25000.0,2018-05-03,,,,,,,,,
+cards,duplicate row,4002308772586742.0,Visa,Ahmedabad,100000.0,2020-01-03,,,,,,,,,
+cards,duplicate row,4248294247885292.0,Visa,Ahmedabad,200000.0,2023-01-23,,,,,,,,,
+cards,duplicate row,4171291304092788.0,Mastercard,Ahmedabad,200000.0,2020-05-12,,,,,,,,,
+cards,duplicate row,4165752946842352.0,RuPay,Pune,100000.0,2021-07-01,,,,,,,,,
+cards,duplicate row,4843574951597751.0,MASTERCARD,Mumbai,25000.0,2021-10-23,,,,,,,,,
+cards,duplicate row,4710359192022828.0,Mastercard,Lucknow,25000.0,2019-08-10,,,,,,,,,
+merchants,duplicate row,,,,,,M001,Grocery Hub 1,grocery,Kolkata,,,,,
+merchants,duplicate row,,,,,,M023,Fuel Point 7,fuel,Kolkata,,,,,
+merchants,duplicate row,,,,,,M031,Shopping Point 7,shopping_online,Hyderabad,,,,,
+transactions,duplicate row,4417253609858685.0,,,,,M015,,,Kolkata,T000055,2025-01-01 08:44:07,500.21,POS,0.0
+transactions,duplicate row,4610227444433245.0,,,,,M006,,,Mumbai,T000262,2025-01-01 13:23:50,363.07,POS,0.0
+transactions,duplicate row,4517878575668577.0,,,,,M021,,,Delhi,T000477,2025-01-01 17:59:06,1357.15,POS,0.0
+transactions,duplicate row,4322463318581777.0,,,,,M008,,,Ahmedabad,T000709,2025-01-02 08:07:50,202.88,Online,0.0
+transactions,duplicate row,4746731714838045.0,,,,,M019,,,Pune,T000730,2025-01-02 08:50:54,1324.38,POS,0.0
+transactions,duplicate row,4866801438261925.0,,,,,M008,,,Lucknow,T000849,2025-01-02 11:53:44,517.89,POS,0.0
+transactions,duplicate row,4556190296797788.0,,,,,M013,,,Jaipur,T000907,2025-01-02 13:15:50,225.34,POS,0.0
+transactions,duplicate row,4468405319615672.0,,,,,M016,,,Chennai,T000986,2025-01-02 15:17:02,559.18,POS  ,0.0
+transactions,duplicate row,4814638443117881.0,,,,,M054,,,Kolkata,T001044,2025-01-02 16:19:20,5281.44,Online,0.0
+transactions,duplicate row,4619668525969860.0,,,,,M040,,,Bengaluru,T001176,02-01-2025 18:25,2695.71,POS,0.0
+transactions,duplicate row,4531413811597243.0,,,,,M034,,,Hyderabad,T001181,2025-01-02 18:28:57,277.16,POS,0.0
+transactions,duplicate row,4596726350431928.0,,,,,M024,,,Bengaluru,T001254,2025-01-02 19:33:53,1214.87,POS,0.0
+transactions,duplicate row,4554399023379763.0,,,,,M011,,,Kolkata,T001335,2025-01-02 21:59:34,355.38,POS,0.0
+transactions,duplicate row,4601558452456015.0,,,,,M050,,,Pune,T001558,2025-01-03 12:05:46,8536.13,Online,0.0
+transactions,duplicate row,4284720082337935.0,,,,,M005,,,Delhi,T001787,2025-01-03 16:10:56,674.7,POS,0.0
+transactions,duplicate row,4428169863508872.0,,,,,M026,,,Kolkata,T001867,2025-01-03 17:51:38,5135.01,Online,0.0
+transactions,duplicate row,4773939438637655.0,,,,,M009,,,Delhi,T002339,2025-01-04 13:48:32,284.37,POS,0.0
+transactions,duplicate row,4907604891390481.0,,,,,M079,,,Mumbai,T002504,2025-01-04 17:14:23,1273.56,Online,0.0
+transactions,duplicate row,4683014956448997.0,,,,,M006,,,Chennai,T002593,2025-01-04 19:01:34,554.28,POS,0.0
+transactions,duplicate row,4301400636720185.0,,,,,M064,,,Pune,T002609,2025-01-04 19:18:36,783.6,POS,0.0
+transactions,duplicate row,4908608246555641.0,,,,,M042,,,KOLKATA,T002689,2025-01-04 21:04:07,3462.04,Online,0.0
+transactions,duplicate row,4902653143927616.0,,,,,M002,,,Pune,T003132,2025-01-05 16:28:59,2124.57,POS,0.0
+transactions,duplicate row,4729410459599303.0,,,,,M024,,,Jaipur,T003264,2025-01-05 18:53:57,849.57,POS,0.0
+transactions,duplicate row,4823124609950093.0,,,,,M034,,,Ahmedabad,T003273,2025-01-05 19:03:16,2196.44,POS,0.0
+transactions,duplicate row,4885705170858362.0,,,,,M010,,,Delhi,T003376,2025-01-05 21:29:25,1567.8,POS,0.0
+transactions,duplicate row,4631628542171317.0,,,,,M013,,,Pune,T003417,2025-01-05 23:58:02,1539.25,POS,0.0
+transactions,duplicate row,4744770927816753.0,,,,,M073,,,Hyderabad,T003565,2025-01-06 11:30:40,1632.7,online,0.0
+transactions,duplicate row,4346869804534836.0,,,,,M005,,,Mumbai,T003585,2025-01-06 12:06:18,203.84,POS,0.0
+transactions,duplicate row,4533387430831031.0,,,,,M030,,,Ahmedabad,T003602,2025-01-06 12:23:14,4453.37,Online,0.0
+transactions,duplicate row,4368988553300344.0,,,,,M010,,,Chennai,T003733,2025-01-06 15:08:17,278.52,POS,0.0
+transactions,duplicate row,4472144451020645.0,,,,,M003,,,Delhi,T003790,2025-01-06 16:36:40,340.91,POS,0.0
+transactions,duplicate row,4270632152270860.0,,,,,M008,,,Pune,T003841,06-01-2025 17:36,345.7,POS,0.0
+transactions,duplicate row,4138205371638530.0,,,,,M078,,,Jaipur,T004058,2025-01-07 05:23:32,1646.33,Online,0.0
+transactions,duplicate row,4837475743787776.0,,,,,M061,,,Jaipur,T004449,2025-01-07 16:43:38,1158.32,POS,0.0
+transactions,duplicate row,4052807101400110.0,,,,,M002,,,Jaipur,T004544,2025-01-07 18:38:02,306.23,Online,0.0
+transactions,duplicate row,4253664506561828.0,,,,,M037,,,Ahmedabad,T004610,2025-01-07 20:07:18,1621.04,POS,0.0
+transactions,duplicate row,4520275114740568.0,,,,,M012,,,Hyderabad,T004673,2025-01-07 21:31:12,452.17,POS,0.0
+transactions,duplicate row,4248294247885292.0,,,,,M024,,,Ahmedabad,T004690,2025-01-07 22:16:00,1470.27,POS,0.0
+transactions,duplicate row,4271137886235090.0,,,,,M012,,,Hyderabad,T004801,2025-01-08 09:42:17,676.31,POS,0.0
+transactions,duplicate row,4864136829192723.0,,,,,M014,,,Pune,T004880,2025-01-08 11:40:37,1043.63,POS,0.0
+transactions,duplicate row,4584097968912735.0,,,,,M003,,,Bengaluru,T005091,2025-01-08 16:23:44,1030.15,Online,0.0
+transactions,duplicate row,4258557178148739.0,,,,,M002,,,Lucknow,T005200,2025-01-08 18:33:48,4730.56,POS,0.0
+transactions,duplicate row,4024450840882014.0,,,,,M013,,,Lucknow,T005439,2025-01-09 08:38:09,628.2,POS,0.0
+transactions,duplicate row,4759966883700729.0,,,,,M025,,,Lucknow,T005565,2025-01-09 11:52:43,451.46,Online,0.0
+transactions,duplicate row,4321085626411854.0,,,,,M021,,,Jaipur,T005568,2025-01-09 11:55:06,843.41,POS,0.0
+transactions,duplicate row,4726994614286881.0,,,,,M027,,,Ahmedabad,T005713,2025-01-09 15:01:18,3128.42,Online,0.0
+transactions,duplicate row,4674195192444815.0,,,,,M016,,,Delhi,T005733,2025-01-09 15:28:50,574.11,POS,0.0
+transactions,duplicate row,4071822140502884.0,,,,,M001,,,Jaipur,T006076,2025-01-10 07:09:11,293.49,POS,0.0
+transactions,duplicate row,4958515293975451.0,,,,,M041,,,Lucknow,T006516,2025-01-10 17:01:09,4839.56,POS,0.0
+transactions,duplicate row,4655517738343051.0,,,,,M032,,,Lucknow,T006557,2025-01-10 17:54:18,12606.55,Online,0.0
+transactions,duplicate row,4024859491386256.0,,,,,M007,,,Pune,T006861,2025-01-11 10:17:12,871.81,POS,0.0
+transactions,duplicate row,4610289951703850.0,,,,,M016,,,Chennai,T006872,2025-01-11 10:36:09,131.42,POS,0.0
+transactions,duplicate row,4080277320404037.0,,,,,M012,,,Ahmedabad,T007129,2025-01-11 16:19:37,549.88,POS,0.0
+transactions,duplicate row,4413408244389858.0,,,,,M001,,,Jaipur,T007163,2025-01-11 17:00:27,608.71,POS,0.0
+transactions,duplicate row,4398506623474212.0,,,,,M015,,, Ahmedabad,T007168,2025-01-11 17:05:57,445.41,POS,0.0
+transactions,duplicate row,4723113802145385.0,,,,,M057,,,Delhi,T007174,2025-01-11 17:11:22,1916.13,POS,0.0
+transactions,duplicate row,4608129211914590.0,,,,,M030,,,Chennai,T007221,2025-01-11 18:13:35,1470.86,Online,0.0
+transactions,duplicate row,4101193366753332.0,,,,,M035,,,Jaipur,T007697,2025-01-12 14:11:27,999.55,POS,0.0
+transactions,duplicate row,4468416641246770.0,,,,,M029,,,Chennai,T007723,2025-01-12 14:46:26,4200.61,Online,0.0
+transactions,duplicate row,4035842751418163.0,,,,,M001,,,Jaipur,T007965,2025-01-12 20:18:27,622.04,Online,0.0
+transactions,duplicate row,4563010760086358.0,,,,,M028,,,Bengaluru,T007985,2025-01-12 20:42:03,2014.81,POS,0.0
+transactions,duplicate row,4821230786597844.0,,,,,M001,,,Lucknow,T008043,2025-01-12 22:59:14,320.32,POS,0.0
+transactions,duplicate row,4580438297202844.0,,,,,M004,,,Lucknow,T008082,2025-01-13 07:28:20,353.29,Online,0.0
+transactions,duplicate row,4525088302967260.0,,,,,M032,,,Hyderabad,T008141,2025-01-13 09:35:32,3541.71,Online,0.0
+transactions,duplicate row,4711409347709741.0,,,,,M011,,,Mumbai,T008491,2025-01-13 17:19:04,174.18,POS,0.0
+transactions,duplicate row,4080049283646185.0,,,,,M064,,,Hyderabad,T008531,2025-01-13 18:16:16,1007.54,POS,0.0
+transactions,duplicate row,4416161680067290.0,,,,,M080,,,Kolkata,T008538,2025-01-13 18:24:02,1090.94,Online,0.0
+transactions,duplicate row,4952975161560102.0,,,,,M029,,,Bengaluru,T008742,2025-01-14 07:03:12,2404.69,Online,0.0
+transactions,duplicate row,4160389324067735.0,,,,,M029,,,Jaipur,T008908,2025-01-14 11:36:16,1207.39,POS,0.0
+transactions,duplicate row,4246725053479471.0,,,,,M005,,,KOLKATA,T009023,2025-01-14 13:47:29,1180.67,POS,0.0
+transactions,duplicate row,4114530073535973.0,,,,,M017,,,Chennai,T009135,2025-01-14 16:06:18,811.06,POS,0.0
+transactions,duplicate row,4320715546694075.0,,,,,M015,,,Bengaluru,T009390,2025-01-14 21:57:16,486.02,Online,0.0
+transactions,duplicate row,4504063906564550.0,,,,,M015,,,Kolkata,T009793,2025-01-15 15:13:50,201.93,POS,0.0
+transactions,duplicate row,4736354097147021.0,,,,,M069,,,Pune,T009808,2025-01-15 15:30:42,1045.94,POS,0.0
+transactions,duplicate row,4960586962506624.0,,,,,M015,,,Ahmedabad,T010735,2025-01-16 19:53:27,522.08,Online,0.0
+transactions,duplicate row,4195124241092336.0,,,,,M014,,,Delhi,T010736,2025-01-16 19:53:27,255.39,POS,0.0
+transactions,duplicate row,4412374914297224.0,,,,,M008,,,Ahmedabad,T010830,2025-01-16 22:35:43,387.67,POS,0.0
+transactions,duplicate row,4330735742054866.0,,,,,M031,,,Jaipur,T011201,2025-01-17 15:09:18,728.59,Online,0.0
+transactions,duplicate row,4882825566034077.0,,,,,M007,,,Bengaluru,T011301,2025-01-17 17:18:47,322.94,POS,0.0
+transactions,duplicate row,4867738953776010.0,,,,,M003,,,Chennai,T011462,2025-01-17 20:53:35,620.56,POS,0.0
+transactions,duplicate row,4249548175938720.0,,,,,M006,,,Mumbai,T011505,2025-01-18 01:01:26,6181.4,POS,1.0
+transactions,duplicate row,4813159345820112.0,,,,,M026,,,Delhi,T011595,2025-01-18 09:48:55,4160.59,Online,0.0
+transactions,duplicate row,4687533935109871.0,,,,,M011,,,Jaipur,T011741,2025-01-18 12:43:14,682.97,POS,0.0
+transactions,duplicate row,4097883280214859.0,,,,,M056,,,Jaipur,T011989,18-01-2025 18:08,3402.5,POS,0.0
+transactions,duplicate row,4930105519250123.0,,,,,M028,,,Lucknow,T012002,2025-01-18 18:25:21,1637.01,Online,0.0
+transactions,duplicate row,4672240093039811.0,,,,,M018,,,Mumbai,T012137,2025-01-18 21:25:13,1263.87,POS,0.0
+transactions,duplicate row,4167937980598863.0,,,,,M016,,, Hyderabad,T012594,2025-01-19 17:43:36,293.25,Online,0.0
+transactions,duplicate row,4686049869505899.0,,,,,M046,,,Lucknow,T012860,2025-01-20 08:07:03,6073.55,POS,0.0
+transactions,duplicate row,4167699519677780.0,,,,,M030,,,Delhi,T012933,2025-01-20 10:08:37,886.66,Online,0.0
+transactions,duplicate row,4585771325154721.0,,,,,M009,,,Delhi,T013142,2025-01-20 15:00:26,324.63,POS,0.0
+transactions,duplicate row,4800884176085095.0,,,,,M022,,,Bengaluru,T013264,2025-01-20 17:20:50,2103.24,POS,0.0
+transactions,duplicate row,4320715546694075.0,,,,,M051,,,Bengaluru,T013313,2025-01-20 18:19:19,19859.07,Online,0.0
+transactions,duplicate row,4767661032698740.0,,,,,M002,,,Ahmedabad,T013543,2025-01-21 09:00:12,265.63,POS,0.0
+transactions,duplicate row,4787463874631501.0,,,,,M010,,,Jaipur,T013771,2025-01-21 14:40:52,190.11,POS,0.0
+transactions,duplicate row,4649233155245308.0,,,,,M038,,,Chennai,T014213,2025-01-22 08:56:08,1312.48,POS,0.0
+transactions,duplicate row,4576860958497592.0,,,,,M001,,,Jaipur,T014321,2025-01-22 11:37:56,788.69,POS,0.0
+transactions,duplicate row,4508167355812874.0,,,,,M027,,,Ahmedabad,T014402,2025-01-22 13:18:03,2643.33,Online,0.0
+transactions,duplicate row,4037412556176179.0,,,,,M007,,,Kolkata,T014478,2025-01-22 14:38:41,497.61,Online,0.0
+transactions,duplicate row,4594294428013819.0,,,,,M060,,,Pune,T015398,2025-01-23 19:10:31,574.53,POS,0.0
+transactions,duplicate row,4723320330967155.0,,,,,M008,,,Delhi,T015507,2025-01-23 21:23:03,1114.43,POS,0.0
+transactions,duplicate row,4476257308586725.0,,,,,M019,,,Pune,T015746,2025-01-24 11:43:27,1579.61,POS,0.0
+transactions,duplicate row,4916848407629194.0,,,,,M016,,,Pune,T015819,2025-01-24 13:05:10,,POS,0.0
+transactions,duplicate row,4257612616182036.0,,,,,M024,,,Mumbai,T016010,2025-01-24 17:25:05,2706.88,POS,0.0
+transactions,duplicate row,4031069600069840.0,,,,,M056,,,Bengaluru,T016074,2025-01-24 18:53:19,7846.36,Online,0.0
+transactions,duplicate row,4180706195766809.0,,,,,M006,,,Kolkata,T016085,2025-01-24 19:01:27,368.74,Online,0.0
+transactions,duplicate row,4958429180900971.0,,,,,M078,,,Delhi,T016159,2025-01-24 20:32:48,2879.22,Online,0.0
+transactions,duplicate row,4734016559788722.0,,,,,M069,,,Kolkata,T016172,2025-01-24 20:46:35,548.52,POS,0.0
+transactions,duplicate row,4603424454333320.0,,,,,M005,,,Chennai,T016236,2025-01-25 01:32:04,1020.45,POS,0.0
+transactions,duplicate row,4685427720761013.0,,,,,M034,,,Chennai,T016358,2025-01-25 10:38:32,811.11,POS,0.0
+transactions,duplicate row,4202405279503762.0,,,,,M032,,,Ahmedabad,T016359,2025-01-25 10:44:10,2603.04,Online,0.0
+transactions,duplicate row,4540856636944950.0,,,,,M024,,,Jaipur,T016602,2025-01-25 16:19:28,1489.67,POS,0.0
+transactions,duplicate row,4402879608507629.0,,,,,M029,,,Chennai,T016746,2025-01-25 19:11:48,1451.3,Online,0.0
+transactions,duplicate row,4941366901270245.0,,,,,M009,,,Hyderabad,T016850,2025-01-25 21:34:58,223.73,POS,0.0
+transactions,duplicate row,4827440852508746.0,,,,,M002,,,Hyderabad,T017052,2025-01-26 11:37:08,746.75,POS,0.0
+transactions,duplicate row,4602410253091447.0,,,,,M042,,,Jaipur,T017091,2025-01-26 12:13:38,34697.04,Online,1.0
+transactions,duplicate row,4246725053479471.0,,,,,M006,,,Kolkata,T017123,2025-01-26 12:47:41,468.06,POS,0.0
+transactions,duplicate row,4556486090510793.0,,,,,M006,,,Bengaluru,T017543,2025-01-26 22:01:10,2037.67,POS,0.0
+transactions,duplicate row,4053325084933340.0,,,,,M007,,,bengaluru,T017663,27-01-2025 09:49,582.47,POS,0.0
+transactions,duplicate row,4898366547361534.0,,,,,M015,,,Bengaluru,T017897,2025-01-27 15:33:56,155.66,POS,0.0
+transactions,duplicate row,4378318014223785.0,,,,,M002,,,Kolkata,T018277,2025-01-28 09:26:18,746.07,POS,0.0
+transactions,duplicate row,4888058695014868.0,,,,,M010,,,Pune,T018537,2025-01-28 15:36:46,77.65,POS,0.0
+transactions,duplicate row,4293593757766683.0,,,,,M070,,,Bengaluru,T018717,2025-01-28 19:27:44,1469.96,POS,0.0
+transactions,duplicate row,4259439839854534.0,,,,,M059,,,Bengaluru,T019420,2025-01-29 19:17:39,795.89,POS,0.0
+transactions,duplicate row,4378309822373414.0,,,,,M067,,,Pune,T019664,2025-01-30 09:48:17,517.85,POS,0.0
+transactions,duplicate row,4349563611452033.0,,,,,M015,,,Delhi,T019960,2025-01-30 16:11:06,249.54,POS,0.0
+transactions,duplicate row,4680034935407890.0,,,,,M008,,,Bengaluru,T020017,2025-01-30 17:22:52,210.44,POS,0.0
+transactions,duplicate row,4429957049900047.0,,,,,M009,,,MUMBAI,T020021,2025-01-30 17:23:34,483.46,POS,0.0
+transactions,duplicate row,4638467527764740.0,,,,,M014,,,Hyderabad,T020042,2025-01-30 17:51:44,674.43,POS,0.0
+transactions,duplicate row,4557583496826382.0,,,,,M032,,,Ahmedabad,T020413,2025-01-31 11:18:14,3504.83,POS,0.0
+transactions,duplicate row,4416665998039879.0,,,,,M021,,,Ahmedabad,T020795,2025-01-31 19:25:00,1680.49,POS,0.0
+transactions,duplicate row,4416262425703191.0,,,,,M012,,,Jaipur,T020917,2025-02-01 05:37:35,434.73,POS,0.0
+transactions,duplicate row,4679145368438892.0,,,,,M025,,,Chennai,T021431,2025-02-01 19:25:01,1477.74,Online,0.0
+transactions,duplicate row,4108657103262262.0,,,,,M024,,,Ahmedabad,T021503,2025-02-01 20:45:11,1516.61,POS,0.0
+transactions,duplicate row,4996677211519152.0,,,,,M035,,,kolkata,T021822,2025-02-02 13:08:18,837.54,POS,0.0
+transactions,duplicate row,4836245176842600.0,,,,,M026,,,Ahmedabad,T021900,2025-02-02 14:53:42,7080.04,Online,0.0
+transactions,duplicate row,4972070177130884.0,,,,,M052,,,Mumbai,T022009,2025-02-02 17:34:48,4530.12,Online,0.0
+transactions,duplicate row,4856614284092374.0,,,,,M026,,,Chennai,T022178,2025-02-02 21:41:02,4616.74,Online,0.0
+transactions,duplicate row,4155441564083422.0,,,,,M064,,,Chennai,T022271,2025-02-03 08:42:14,1274.8,POS,0.0
+transactions,duplicate row,4514222870190413.0,,,,,M005,,,Chennai,T022339,2025-02-03 10:19:44,373.24,Online,0.0
+transactions,duplicate row,4336285830427361.0,,,,,M021,,,Lucknow,T022493,2025-02-03 13:45:28,2173.83,POS,0.0
+transactions,duplicate row,4296299630453484.0,,,,,M071,,,Hyderabad,T022544,2025-02-03 14:47:13,2649.75,POS,0.0
+transactions,duplicate row,4085886209437572.0,,,,,M008,,,Lucknow,T022571,2025-02-03 15:19:47,297.5,POS,0.0
+transactions,duplicate row,4145832300735679.0,,,,,M033,,,Chennai,T022614,2025-02-03 16:09:52,4326.54,POS,0.0
+transactions,duplicate row,4677971852545044.0,,,,,M004,,,Hyderabad,T023327,04-02-2025 17:13,296.63,POS,0.0
+transactions,duplicate row,4010727644975676.0,,,,,M059,,,Hyderabad,T023375,2025-02-04 18:23:17,343.52,POS,0.0
+transactions,duplicate row,4295019208712395.0,,,,,M012,,,Ahmedabad,T023574,2025-02-04 23:57:56,514.23,POS,0.0
+transactions,duplicate row,4741614632731514.0,,,,,M070,,,Delhi,T024224,2025-02-05 22:45:33,920.53,POS,0.0
+transactions,duplicate row,4214326402854986.0,,,,,M058,,,Hyderabad,T024335,2025-02-06 10:04:30,932.7,POS,0.0
+transactions,duplicate row,4429957049900047.0,,,,,M010,,,Mumbai,T024615,2025-02-06 15:35:36,619.34,POS,0.0
+transactions,duplicate row,4162856551242702.0,,,,,M040,,,Delhi,T025034,2025-02-07 10:33:23,561.89,POS,0.0
+transactions,duplicate row,4368988553300344.0,,,,,M007,,,Chennai,T025117,2025-02-07 12:12:50,504.2,POS,0.0
+transactions,duplicate row,4428392645841465.0,,,,,M040,,,Mumbai,T025241,2025-02-07 14:58:12,3412.47,POS,0.0
+transactions,duplicate row,4533840013273959.0,,,,,M033,,,Bengaluru,T025298,2025-02-07 16:20:14,1181.39,POS,0.0
+transactions,duplicate row,4527399780658130.0,,,,,M031,,,Delhi,T025507,2025-02-07 21:12:16,12987.29,POS,0.0
+transactions,duplicate row,4025204947126162.0,,,,,M002,,,Chennai,T025795,2025-02-08 12:39:36,1203.42,POS,0.0
+transactions,duplicate row,4993098862717634.0,,,,,M014,,,Ahmedabad,T025911,2025-02-08 15:20:09,388.35,POS,0.0
+transactions,duplicate row,4071304534184845.0,,,,,M068,,,Pune,T025933,08-02-2025 15:47,585.56,POS,0.0
+transactions,duplicate row,4213074934399002.0,,,,,M044,,,Bengaluru,T025982,2025-02-08 16:45:36,8341.1, POS,0.0
+transactions,duplicate row,4202088101645477.0,,,,,M032,,,Mumbai,T026064,2025-02-08 18:22:56,2011.98,Online,0.0
+transactions,duplicate row,4258557178148739.0,,,,,M024,,,Lucknow,T026135,2025-02-08 19:59:05,1667.28,POS,0.0
+transactions,duplicate row,4343292462378907.0,,,,,M014,,,Bengaluru,T026339,2025-02-09 10:19:51,503.75,POS,0.0
+transactions,duplicate row,4024823131798572.0,,,,,M034,,,Jaipur,T026608,2025-02-09 16:21:00,606.56,POS,0.0
+transactions,duplicate row,4060330818574221.0,,,,,M008,,,Kolkata,T026613,2025-02-09 16:24:00,234.25,POS,0.0
+transactions,duplicate row,4167699519677780.0,,,,,M030,,,Delhi,T026892,2025-02-09 21:27:28,883.49,Online,0.0
+transactions,duplicate row,4641561325964351.0,,,,,M015,,,Delhi,T027060,2025-02-10 10:10:06,196.59,Online,0.0
+transactions,duplicate row,4026532437206074.0,,,,,M018,,,Kolkata,T027097,10-02-2025 11:17,1776.7,POS,0.0
+transactions,duplicate row,4571569784506718.0,,,,,M002,,,Chennai,T027253,2025-02-10 14:35:25,1218.06,POS,0.0
+transactions,duplicate row,4189491277187215.0,,,,,M023,,,Chennai,T027631,2025-02-11 07:13:17,791.12,ONLINE,0.0
+transactions,duplicate row,4458915775538339.0,,,,,M063,,,Pune,T027707,2025-02-11 09:44:32,287.1,POS,0.0
+transactions,duplicate row,4992042005528053.0,,,,,M017,,,Jaipur,T028575,2025-02-12 14:39:23,1901.14, POS,0.0
+transactions,duplicate row,4837475743787776.0,,,,,M027,,,Jaipur,T029458,2025-02-13 18:58:48,2438.61,Online,0.0
+transactions,duplicate row,4520230067045993.0,,,,,M012,,,Chennai,T029504,2025-02-13 19:52:13,279.29,POS,0.0
+transactions,duplicate row,4081154000423899.0,,,,,M003,,,Chennai,T029569,2025-02-13 21:38:15,1043.18,POS,0.0
+transactions,duplicate row,4749983537935267.0,,,,,M050,,,Hyderabad,T029631,2025-02-14 06:42:37,12853.37,Online,0.0
+transactions,duplicate row,4218856608794632.0,,,,,M080,,,Kolkata,T029695,2025-02-14 09:51:41,2055.8,Online,0.0
+transactions,duplicate row,4248294247885292.0,,,,,M038,,,Ahmedabad,T029906,2025-02-14 14:35:48,1874.42,POS,0.0
+transactions,duplicate row,4090579058535439.0,,,,,M018,,,Lucknow,T030381,2025-02-15 10:54:31,1184.61,POS,0.0
+transactions,duplicate row,4892487689687325.0,,,,,M043,,, Lucknow,T031092,2025-02-16 10:51:06,9175.42,POS,0.0
+transactions,duplicate row,4764667228561998.0,,,,,M012,,,Chennai,T031320,2025-02-16 16:08:37,325.31,POS,0.0
+transactions,duplicate row,4406855839390826.0,,,,,M013,,,Hyderabad,T031387,2025-02-16 17:41:18,471.43,POS,0.0
+transactions,duplicate row,4189491277187215.0,,,,,M037,,,Chennai,T031406,2025-02-16 18:07:10,759.19,POS,0.0
+transactions,duplicate row,4704838323043180.0,,,,,M057,,,Chennai,T031593,2025-02-16 22:37:13,1687.57,POS,0.0
+transactions,duplicate row,4213074934399002.0,,,,,M026,,,Bengaluru,T031594,2025-02-16 22:37:20,1159.0,Online,0.0
+transactions,duplicate row,4657863285040527.0,,,,,M002,,,Delhi,T031925,2025-02-17 14:43:57,875.72,POS,0.0
+transactions,duplicate row,4329074870401269.0,,,,,M077,,,Pune,T032025,2025-02-17 17:02:11,11524.22,POS,1.0
+transactions,duplicate row,4679145368438892.0,,,,,M036,,,chennai,T032117,2025-02-17 18:41:43,1170.2,POS,0.0
+transactions,duplicate row,4153613395192058.0,,,,,M014,,,Lucknow,T032396,2025-02-18 10:11:10,829.82,POS,0.0
+transactions,duplicate row,4262460515922864.0,,,,,M010,,,Chennai,T032434,2025-02-18 11:05:20,582.78,POS,0.0
+transactions,duplicate row,4799512605718227.0,,,,,M001,,,Hyderabad,T032470,2025-02-18 11:49:08,385.79,POS,0.0
+transactions,duplicate row,4587521780528873.0,,,,,M054,,,Mumbai,T032723,2025-02-18 17:43:05,1144.15,Online,0.0
+transactions,duplicate row,4989823069204872.0,,,,,M014,,,Bengaluru,T032830,2025-02-18 19:41:03,1140.94,POS,0.0
+transactions,duplicate row,4101894157314544.0,,,,,M022,,,Jaipur,T033285,2025-02-19 14:43:01,1078.69,POS,0.0
+transactions,duplicate row,4038644309826884.0,,,,,M060,,,Jaipur,T033635,2025-02-19 22:41:43,765.94,POS,0.0
+transactions,duplicate row,4698428554578839.0,,,,,M070,,,Ahmedabad,T034304,2025-02-20 21:19:07,2582.37,POS,0.0
+transactions,duplicate row,4621862030654339.0,,,,,M017,,,Bengaluru,T034385,2025-02-21 07:28:39,1659.5,POS,0.0
+transactions,duplicate row,4787463874631501.0,,,,,M013,,,Jaipur,T034635,2025-02-21 13:45:33,602.88,POS,0.0
+transactions,duplicate row,4512732064300110.0,,,,,M054,,,Lucknow,T034868,2025-02-21 19:03:55,13676.56,POS,0.0
+transactions,duplicate row,4096752898361096.0,,,,,M018,,,Kolkata,T034945,2025-02-21 20:59:49,1270.59,POS,0.0
+transactions,duplicate row,4330735742054866.0,,,,,M018,,,Jaipur,T034996,2025-02-22 02:05:11,841.78,POS,0.0
+transactions,duplicate row,4284720082337935.0,,,,,M018,,,Delhi,T034998,2025-02-22 05:09:22,2336.18,POS,0.0
+transactions,duplicate row,4212147407523301.0,,,,,M005,,,Mumbai,T035474,2025-02-22 18:29:10,980.29,POS,0.0
+transactions,duplicate row,4361298898852682.0,,,,,M035,,,Hyderabad,T035520,2025-02-22 19:17:47,1357.36,POS,0.0
+transactions,duplicate row,4787555584863215.0,,,,,M063,,,Chennai,T035592,2025-02-22 20:38:49,2694.58,Online,1.0
+transactions,duplicate row,4438386258584192.0,,,,,M008,,, Bengaluru,T035595,2025-02-22 20:43:07,2097.13,POS,0.0
+transactions,duplicate row,4580438297202844.0,,,,,M056,,,Lucknow,T036091,2025-02-23 16:26:37,13552.12,Online,0.0
+transactions,duplicate row,4265213456112565.0,,,,,M001,,,Delhi,T036185,2025-02-23 18:21:48,420.88,POS,0.0
+transactions,duplicate row,4449859299944125.0,,,,,M052,,,Mumbai,T036275,2025-02-23 19:56:26,9649.67,Online,0.0
+transactions,duplicate row,4095187538336974.0,,,,,M004,,,Mumbai,T036319,2025-02-23 20:48:21,382.56,POS,0.0
+transactions,duplicate row,4142103925851642.0,,,,,M012,,,Delhi,T036638,2025-02-24 13:06:04,405.48,POS,0.0
+transactions,duplicate row,4981004811353771.0,,,,,M034,,,Jaipur,T036758,2025-02-24 15:58:19,2802.31,POS,0.0
+transactions,duplicate row,4592956631149615.0,,,,,M023,,,Jaipur,T036865,2025-02-24 18:06:57,1061.54,POS,0.0
+transactions,duplicate row,4023756506457186.0,,,,,M037,,,Lucknow,T037453,2025-02-25 17:08:03,680.47,POS,0.0
+transactions,duplicate row,4119217526197744.0,,,,,M025,,,Hyderabad,T037695,2025-02-26 01:02:40,2542.13,POS,0.0
+transactions,duplicate row,4153613395192058.0,,,,,M060,,,Bengaluru,T037742,2025-02-26 08:23:05,258.7,POS,0.0
+transactions,duplicate row,4511143763429942.0,,,,,M001,,,Hyderabad,T037839,2025-02-26 10:45:25,478.2,POS,0.0
+transactions,duplicate row,4672264431223444.0,,,,,M001,,,Chennai,T038140,2025-02-26 17:15:26,589.06,POS,0.0
+transactions,duplicate row,4802704976126878.0,,,,,M020,,,Ahmedabad,T038210,2025-02-26 18:23:59,1788.54,POS,0.0
+transactions,duplicate row,4411810896585569.0,,,,,M075,,,Chennai,T038358,2025-02-26 21:47:39,3212.85,Online,0.0
+transactions,duplicate row,4409035132045729.0,,,,,M054,,,Ahmedabad,T038381,2025-02-26 22:59:15,907.19,Online,0.0
+transactions,duplicate row,4054934989197669.0,,,,,M006,,,Ahmedabad,T038415,2025-02-27 07:31:11,244.05,Online,0.0
+transactions,duplicate row,4200183430584859.0,,,,,M017,,,Ahmedabad,T038457,2025-02-27 09:02:34,767.62,POS,0.0
+transactions,duplicate row,4837716858187040.0,,,,,M008,,,Delhi,T038555,2025-02-27 11:15:40,1324.58,POS,0.0
+transactions,duplicate row,4053325084933340.0,,,,,M014,,,Bengaluru,T038583,2025-02-27 11:44:21,250.25,POS,0.0
+transactions,duplicate row,4754271514937891.0,,,,,M063,,,Pune,T038646,2025-02-27 12:52:19,575.72,POS,0.0
+transactions,duplicate row,4969176377347722.0,,,,,M055,,,Jaipur,T038702,2025-02-27 13:51:56,5988.49,Online,0.0
+transactions,duplicate row,4562672410574856.0,,,,,M055,,,Chennai,T038703,2025-02-27 13:55:42,16847.88,Online,0.0
+transactions,duplicate row,4134552208413146.0,,,,,M064,,,Bengaluru,T038772,2025-02-27 15:42:01,490.34,POS,0.0
+transactions,duplicate row,4563010760086358.0,,,,,M066,,,Bengaluru,T038959,2025-02-27 19:04:29,757.71,POS,0.0
+transactions,duplicate row,4607211430494071.0,,,,,M006,,,Pune,T038983,2025-02-27 19:38:51,360.58,Online,0.0
+transactions,duplicate row,4446389492143709.0,,,,,M003,,,Bengaluru,T039172,2025-02-28 09:45:09,896.7,POS,0.0
+transactions,duplicate row,4994814892829607.0,,,,,M024,,,Jaipur,T039439,2025-02-28 15:43:13,1415.47,POS,0.0
+transactions,duplicate row,4143007401326385.0,,,,,M064,,,Ahmedabad,T039507,2025-02-28 17:19:01,303.43,Online,0.0
+transactions,duplicate row,4523090499279314.0,,,,,M009,,,Chennai,T039573,2025-02-28 18:33:21,323.92,POS,0.0
+transactions,duplicate row,4411843440300973.0,,,,,M010,,,Mumbai,T039632,2025-02-28 19:43:28,659.27,Online,0.0
+transactions,duplicate row,4062063106540155.0,,,,,M006,,,Mumbai,T039846,2025-03-01 09:28:36,104.59,POS,0.0
+transactions,duplicate row,4735129427519632.0,,,,,M065,,,Delhi,T039860,2025-03-01 09:44:43,687.62,POS,0.0
+transactions,duplicate row,4216355695225401.0,,,,,M045,,,Bengaluru,T040022,2025-03-01 13:24:17,4721.74,POS,0.0
+transactions,duplicate row,4341378494181192.0,,,,,M025,,,Hyderabad,T040162,2025-03-01 16:55:40,3156.88,POS,0.0
+transactions,duplicate row,4118485252354801.0,,,,,M028,,,Lucknow,T040524,2025-03-02 10:04:44,3018.58,Online,0.0
+transactions,duplicate row,4617660240169995.0,,,,,M057,,,Kolkata,T040957,2025-03-02 19:22:27,446.51,POS,0.0
+transactions,duplicate row,4972070177130884.0,,,,,M012,,,Mumbai,T041000,2025-03-02 20:31:22,605.25,POS,0.0
+transactions,duplicate row,4265213456112565.0,,,,,M073,,,Delhi,T041123,2025-03-03 07:26:53,1818.66,Online,0.0
+transactions,duplicate row,4189491277187215.0,,,,,M030,,,Chennai,T041589,2025-03-03 18:41:28,1128.39,Online,0.0
+transactions,duplicate row,4603405957487608.0,,,,,M030,,,Hyderabad,T041811,2025-03-04 08:59:42,1141.88,Online,0.0
+transactions,duplicate row,4626766064327160.0,,,,,M007,,,Ahmedabad,T042054,2025-03-04 14:35:03,498.22,Online,0.0
+transactions,duplicate row,4320715546694075.0,,,,,M012,,,Bengaluru,T042062,2025-03-04 14:41:30,555.37,POS,0.0
+transactions,duplicate row,4819199879293979.0,,,,,M068,,,Chennai,T042064,2025-03-04 14:44:08,1051.17,POS,0.0
+transactions,duplicate row,4096752898361096.0,,,,,M003,,,Kolkata,T042153,2025-03-04 16:53:25,222.04,POS,0.0
+transactions,duplicate row,4651334998740045.0,,,,,M026,,,Mumbai,T042167,2025-03-04 17:11:09,3109.1,Online,0.0
+transactions,duplicate row,4941366901270245.0,,,,,M028,,,Bengaluru,T042264,2025-03-04 18:56:50,1483.91,Online,0.0
+transactions,duplicate row,4822761613270829.0,,,,,M026,,,Hyderabad,T042570,2025-03-05 11:11:30,3930.96,Online,0.0
+transactions,duplicate row,4982366683104531.0,,,,,M013,,,Pune,T042593,2025-03-05 11:36:51,516.23,POS,0.0
+transactions,duplicate row,4650794589717736.0,,,,,M069,,,Pune,T042628,2025-03-05 12:20:20,593.31,POS,0.0
+transactions,duplicate row,4925120118376796.0,,,,,M001,,,Jaipur,T042691,2025-03-05 13:30:21,808.18,POS,0.0
+transactions,duplicate row,4213074934399002.0,,,,,M007,,,Bengaluru,T042988,2025-03-05 19:52:16,682.37,POS,0.0
+transactions,duplicate row,4630011844576398.0,,,,,M060,,,Ahmedabad,T043052,2025-03-05 21:41:10,1803.35,POS,0.0
+transactions,duplicate row,4206272903405345.0,,,,,M021,,,Pune,T043355,2025-03-06 13:45:36,1801.68,POS,0.0
+transactions,duplicate row,4241314337977528.0,,,,,M007,,,Chennai,T043641,2025-03-06 19:34:32,586.27,POS,0.0
+transactions,duplicate row,4830703938745930.0,,,,,M001,,,Delhi,T044002,2025-03-07 12:56:54,543.73,POS,0.0
+transactions,duplicate row,4474132675090169.0,,,,,M051,,,Bengaluru,T044286,2025-03-07 19:03:24,17560.03,Online,0.0
+transactions,duplicate row,4118953310740211.0,,,,,M014,,, Pune,T044510,2025-03-08 10:14:00,242.41,POS,0.0
+transactions,duplicate row,4118677367078844.0,,,,,M003,,,Jaipur,T044593,2025-03-08 12:05:09,1057.45,Online,0.0
+transactions,duplicate row,4284051310526515.0,,,,,M024,,,Chennai,T044732,2025-03-08 15:42:25,2677.22,POS,0.0
+transactions,duplicate row,4329074870401269.0,,,,,M009,,,Ahmedabad,T044743,2025-03-08 15:57:59,231.11,POS,0.0
+transactions,duplicate row,4325825358138151.0,,,,,M036,,,Bengaluru,T044982,2025-03-08 20:05:55,670.01,POS,0.0
+transactions,duplicate row,4746067978959364.0,,,,,M033,,,,T044983,2025-03-08 20:08:20,1131.85,Online,0.0
+transactions,duplicate row,4296032862910025.0,,,,,M024,,,Lucknow,T045077,2025-03-09 06:18:08,1219.07,Online,0.0
+transactions,duplicate row,4641561325964351.0,,,,,M031,,,Delhi,T045133,2025-03-09 09:04:16,8183.48,Online,0.0
+transactions,duplicate row,4733753497437915.0,,,,,M012,,,Delhi,T045165,2025-03-09 09:56:27,1370.29,POS,0.0
+transactions,duplicate row,4187903579036476.0,,,,,M077,,,Hyderabad,T045208,2025-03-09 11:01:29,2301.95,Online,0.0
+transactions,duplicate row,4344141078063347.0,,,,,M021,,,Hyderabad,T045375,2025-03-09 14:18:40,2044.71, POS,0.0
+transactions,duplicate row,4118677367078844.0,,,,,M027,,,Jaipur,T045585,2025-03-09 18:47:31,1423.5,POS,0.0
+transactions,duplicate row,4787555584863215.0,,,,,M047,,,Chennai,T045619,2025-03-09 19:19:14,4272.46,POS,0.0
+transactions,duplicate row,4254549314627281.0,,,,,M049,,,Pune,T045727,2025-03-09 22:00:35,11698.83,Online,0.0
+transactions,duplicate row,4244627132759028.0,,,,,M059,,,Lucknow,T045852,2025-03-10 09:27:14,1552.16,POS,0.0
+transactions,duplicate row,4119672555864894.0,,,,,M024,,,,T045913,2025-03-10 11:20:45,1189.45,POS,0.0
+transactions,duplicate row,4835530198111090.0,,,,,M029,,,Delhi,T046279,2025-03-10 19:06:52,200.84,Online,0.0
+transactions,duplicate row,4336285830427361.0,,,,,M071,,,Lucknow,T046500,2025-03-11 09:32:43,569.43,POS,0.0
+transactions,duplicate row,4134552208413146.0,,,,,M028,,,Bengaluru,T046953,2025-03-11 19:24:32,4120.66,Online,0.0
+transactions,duplicate row,4993098862717634.0,,,,,M011,,,Ahmedabad,T047048,2025-03-11 21:37:59,547.44,POS,0.0
+transactions,duplicate row,4894728581714730.0,,,,,M058,,,Ahmedabad,T047090,2025-03-12 01:49:09,2083.92,POS,0.0
+transactions,duplicate row,4607211430494071.0,,,,,M005,,,Pune,T047421,2025-03-12 15:15:29,1375.92,POS,0.0
+transactions,duplicate row,4693505424356060.0,,,,,M017,,,Ahmedabad,T047581,2025-03-12 18:24:29,3397.43,POS,0.0
+transactions,duplicate row,4556190296797788.0,,,,,M072,,,Jaipur,T047754,2025-03-12 23:14:00,2108.2,POS,0.0
+transactions,duplicate row,4452870165712017.0,,,,,M036,,,Lucknow,T048274,2025-03-13 19:14:52,5219.43,POS,0.0
+transactions,duplicate row,4189491277187215.0,,,,,M021,,,Chennai,T048312,2025-03-13 20:05:12,552.01,POS,0.0
+transactions,duplicate row,4592132824903666.0,,,,,M030,,,Hyderabad,T048493,2025-03-14 09:42:27,2482.61,Online,0.0
+transactions,duplicate row,4411810896585569.0,,,,,M026,,,Chennai,T048861,2025-03-14 17:28:04,236.37,Online,0.0
+transactions,duplicate row,4876678138751702.0,,,,,M040,,,Delhi,T048872,2025-03-14 17:39:15,3142.0,POS,0.0
+transactions,duplicate row,4842070151772238.0,,,,,M005,,,Hyderabad,T048919,2025-03-14 18:35:55,543.17,POS,0.0
+transactions,duplicate row,4449532241123520.0,,,,,M028,,,Bengaluru,T048953,2025-03-14 19:03:05,1294.12,Online,0.0
+transactions,duplicate row,4831112672124905.0,,,,,M071,,,Hyderabad,T049102,2025-03-15 06:34:37,457.15,POS,0.0
+transactions,duplicate row,4923346967725811.0,,,,,M010,,,Mumbai,T049360,2025-03-15 13:19:40,528.53,POS,0.0
+transactions,duplicate row,4971994342701769.0,,,,,M032,,,Chennai,T049543,2025-03-15 17:03:28,1770.48,Online,0.0
+transactions,duplicate row,4180926652230868.0,,,,,M030,,,Bengaluru,T049585,2025-03-15 17:42:23,11977.56,Online,0.0
+transactions,duplicate row,4929632187724223.0,,,,,M059,,,lucknow,T049630,2025-03-15 18:34:08,1250.22,POS,0.0
+transactions,duplicate row,4136821278029626.0,,,,,M030,,,Hyderabad,T049837,2025-03-16 05:58:58,877.26,Online,0.0
+transactions,duplicate row,4128052610547786.0,,,,,M043,,,Hyderabad,T049893,2025-03-16 09:07:00,22420.76,POS,0.0
+transactions,duplicate row,4497647702365378.0,,,,,M003,,,Bengaluru,T050649,2025-03-17 11:21:50,393.97,Online,0.0
+transactions,duplicate row,4218856608794632.0,,,,,M027,,,Kolkata,T050790,2025-03-17 14:51:02,991.73,Online,0.0
+transactions,duplicate row,4071797142360045.0,,,,,M002,,,Chennai,T050836,2025-03-17 15:54:59,1332.29,POS,0.0
+transactions,duplicate row,4491257446391365.0,,,,,M036,,,Delhi,T050897,2025-03-17 16:49:53,3600.4,POS,0.0
+transactions,duplicate row,4060330818574221.0,,,,,M016,,,Kolkata,T051091,2025-03-17 21:00:49,1065.22,POS,0.0
+transactions,duplicate row,4024450840882014.0,,,,,M004,,,Lucknow,T051123,2025-03-17 22:43:13,618.95,POS,0.0
+transactions,duplicate row,4024450840882014.0,,,,,M017,,,Lucknow,T051157,18-03-2025 07:11,2373.16,POS,0.0
+transactions,duplicate row,4607211430494071.0,,,,,M011,,,Pune,T051268,2025-03-18 10:40:22,429.52,POS,0.0
+transactions,duplicate row,4449532241123520.0,,,,,M001,,,Bengaluru,T051495,2025-03-18 15:34:03,661.61,POS,0.0
+transactions,duplicate row,4600840407945080.0,,,,,M006,,,Kolkata,T051705,2025-03-18 19:49:22,132.53,POS,0.0
+transactions,duplicate row,4823124609950093.0,,,,,M028,,,Ahmedabad,T051960,2025-03-19 10:36:08,3252.79,Online,0.0
+transactions,duplicate row,4652787224491314.0,,,,,M061,,,Mumbai  ,T052006,2025-03-19 11:31:01,722.47,POS,0.0
+transactions,duplicate row,4723320330967155.0,,,,,M011,,,Delhi,T052038,2025-03-19 12:11:45,358.43,POS,0.0
+transactions,duplicate row,4194628211604922.0,,,,,M007,,,Ahmedabad,T052095,2025-03-19 13:21:54,602.72,POS,0.0
+transactions,duplicate row,4489265190830797.0,,,,,M026,,,Ahmedabad,T052150,2025-03-19 14:44:16,9304.2,Online,0.0
+transactions,duplicate row,4253383353839187.0,,,,,M016,,,Pune,T052292,2025-03-19 17:45:44,158.72,POS,0.0
+transactions,duplicate row,4336285830427361.0,,,,,M008,,,Lucknow,T052347,2025-03-19 18:42:02,95.09,POS,0.0
+transactions,duplicate row,4981004811353771.0,,,,,M021,,,Jaipur,T052721,2025-03-20 12:25:45,1488.94,POS,0.0
+transactions,duplicate row,4202405279503762.0,,,,,M054,,,Ahmedabad,T052882,2025-03-20 16:11:28,7108.18,POS,0.0
+transactions,duplicate row,4993098862717634.0,,,,,M025,,,Ahmedabad,T053097,2025-03-20 20:17:43,1040.23,POS,0.0
+transactions,duplicate row,4994814892829607.0,,,,,M001,,,Jaipur,T053808,2025-03-21 21:30:34,671.91,POS,0.0
+transactions,duplicate row,4301512089147876.0,,,,,M071,,,Bengaluru,T053857,2025-03-22 00:26:13,4369.84,Online,0.0
+transactions,duplicate row,4051419154556929.0,,,,,M068,,,Lucknow,T054083,2025-03-22 12:55:49,1784.04,POS,0.0
+transactions,duplicate row,4249548175938720.0,,,,,M037,,,Mumbai,T054305,2025-03-22 17:34:21,1128.79,POS,0.0
+transactions,duplicate row,4418656087314801.0,,,,,M019,,,Chennai,T054537,2025-03-22 22:47:18,978.23,POS,0.0
+transactions,duplicate row,4733466442799835.0,,,,,M008,,,Lucknow,T054940,2025-03-23 15:54:22,1183.75,POS,0.0
+transactions,duplicate row,4055209956707980.0,,,,,M022,,,Ahmedabad,T054948,2025-03-23 16:03:28,1577.79,POS,0.0
+transactions,duplicate row,4050960482574886.0,,,,,M032,,,Lucknow,T055069,2025-03-23 18:29:15,1006.65,Online,0.0
+transactions,duplicate row,4205390297672406.0,,,,,M003,,,Delhi,T055135,2025-03-23 19:53:55,548.1,POS,0.0
+transactions,duplicate row,4975622351636754.0,,,,,M002,,,Bengaluru,T055243,2025-03-23 23:51:36,702.95,Online,0.0
+transactions,duplicate row,4224689474545873.0,,,,,M032,,,Hyderabad,T055326,2025-03-24 09:18:28,5100.81,Online,0.0
+transactions,duplicate row,4477946580739830.0,,,,,M032,,,Chennai,T055374,2025-03-24 10:24:29,625.56,online,0.0
+transactions,duplicate row,4610770133235417.0,,,,,M040,,,Delhi,T055386,2025-03-24 10:43:08,2925.45,POS,0.0
+transactions,duplicate row,4120110630101384.0,,,,,M005,,,Hyderabad,T055600,2025-03-24 15:24:13,465.34,POS,0.0
+transactions,duplicate row,4466721003727033.0,,,,,M007,,,Pune,T055900,2025-03-24 22:19:01,554.04,POS,0.0
+transactions,duplicate row,4047250338856485.0,,,,,M008,,,Kolkata,T055903,2025-03-24 22:49:47,316.88,POS,0.0
+transactions,duplicate row,4279636329102529.0,,,,,M026,,,Pune,T056058,2025-03-25 10:56:39,1569.31,Online,0.0
+transactions,duplicate row,4894687886867814.0,,,,,M062,,,Chennai,T056325,2025-03-25 17:01:20,510.4,Online,0.0
+transactions,duplicate row,4608129211914590.0,,,,,M033,,,Chennai,T056529,2025-03-25 21:40:27,500.51,online,0.0
+transactions,duplicate row,4123843681943370.0,,,,,M063,,,Lucknow,T056643,2025-03-26 08:59:37,600.77,POS,0.0
+transactions,duplicate row,4065530433918382.0,,,,,M069,,,Delhi,T056806,2025-03-26 12:32:41,475.07,POS,0.0
+transactions,duplicate row,4696724945274552.0,,,,,M040,,,Delhi,T056827,2025-03-26 12:54:14,1123.94,POS,0.0
+transactions,duplicate row,4411810896585569.0,,,,,M023,,,Chennai,T057022,2025-03-26 17:34:47,917.51,Online,0.0
+transactions,duplicate row,4751519560279392.0,,,,,M005,,,Ahmedabad,T057158,2025-03-26 20:12:40,464.41,pos,0.0
+transactions,duplicate row,4980757467908351.0,,,,,M019,,,Hyderabad,T057188,2025-03-26 21:00:01,1920.72,POS,0.0
+transactions,duplicate row,4853984376147228.0,,,,,M010,,,Ahmedabad,T057245,2025-03-26 23:32:17,398.68,POS,0.0
+transactions,duplicate row,4536568013577088.0,,,,,M005,,,Bengaluru,T057376,2025-03-27 10:33:42,605.17,POS,0.0
+transactions,duplicate row,4816056016752830.0,,,,,M054,,,Delhi,T057651,2025-03-27 16:28:29,2877.86,Online,0.0
+transactions,duplicate row,4523090499279314.0,,,,,M019,,,,T057675,2025-03-27 16:52:31,1192.59,POS,0.0
+transactions,duplicate row,4050833461948477.0,,,,,M025,,,Pune,T058007,2025-03-28 08:56:57,248.22,Online,0.0
+transactions,duplicate row,4553540840089611.0,,,,,M018,,,Chennai,T058438,2025-03-28 18:10:15,1582.32,POS,0.0
+transactions,duplicate row,4364919361078252.0,,,,,M042,,,Hyderabad,T058727,2025-03-29 09:54:57,23484.06,POS,0.0
+transactions,duplicate row,4034179410928260.0,,,,,M070,,,Kolkata,T058825,2025-03-29 11:59:53,891.27,Online,0.0
+transactions,duplicate row,4036970727201174.0,,,,,M034,,,Jaipur,T058925,2025-03-29 13:48:21,2660.92,POS,0.0
+transactions,duplicate row,4640439212103640.0,,,,,M032,,,Chennai,T059150,2025-03-29 19:22:55,8471.61,Online,1.0
+transactions,duplicate row,4053325084933340.0,,,,,M006,,,Bengaluru,T059463,2025-03-30 11:42:01,723.21,POS,0.0
+transactions,duplicate row,4931243328479461.0,,,,,M021,,,Lucknow,T059481,2025-03-30 12:12:34,1065.49,POS,0.0
+transactions,duplicate row,4259439839854534.0,,,,,M020,,,Bengaluru,T059537,2025-03-30 13:09:28,715.3,POS,0.0
+transactions,duplicate row,4530441179603078.0,,,,,M056,,,Chennai,T059556,2025-03-30 13:32:19,13561.79,Online,0.0
+transactions,duplicate row,4044175102944161.0,,,,,M008,,,Mumbai,T059607,2025-03-30 14:38:43,1167.3,POS,0.0
+transactions,duplicate row,4576860958497592.0,,,,,M002,,,Jaipur,T059865,2025-03-30 19:48:11,2717.99,POS,0.0
+transactions,duplicate row,4071244477366591.0,,,,,M037,,,Hyderabad,T059934,2025-03-30 21:10:31,1855.43,POS,0.0
+transactions,duplicate row,4189491277187215.0,,,,,M069,,,Chennai,T060119,2025-03-31 10:33:38,981.6,Online,0.0
+transactions,duplicate row,4791451487807621.0,,,,,M058,,,Mumbai,T060225,2025-03-31 12:58:16,624.96,POS,0.0
+transactions,duplicate row,4444688028010745.0,,,,,M029,,,Delhi,T060517,2025-03-31 19:03:08,4992.78,Online,0.0
+transactions,duplicate row,4124923679305643.0,,,,,M020,,,Chennai,T060563,2025-03-31 19:51:23,946.64,Online,0.0
+transactions,empty amount,4071797142360045.0,,,,,M008,,,Chennai,T000175,2025-01-01 11:33:12,,POS,0.0
+transactions,empty amount,4301400636720185.0,,,,,M020,,,Pune,T000300,2025-01-01 13:57:05,,Online,0.0
+transactions,empty amount,4773956048555962.0,,,,,M019,,,Hyderabad,T000867,2025-01-02 12:23:26,,POS,0.0
+transactions,empty amount,4824664190456340.0,,,,,M013,,,Chennai,T000871,2025-01-02 12:25:46,,Online,0.0
+transactions,empty amount,4514222870190413.0,,,,,M033,,,Delhi,T001015,2025-01-02 15:49:00,,POS,1.0
+transactions,empty amount,4364192017772053.0,,,,,M002,,,Lucknow,T001397,2025-01-03 07:46:22,,Online,0.0
+transactions,empty amount,4638223552926336.0,,,,,M038,,,Kolkata,T001529,2025-01-03 11:20:38,,POS,0.0
+transactions,empty amount,4851722182752517.0,,,,,M001,,,Kolkata,T001670,2025-01-03 13:55:01,,POS,0.0
+transactions,empty amount,4373383543258674.0,,,,,M022,,,Jaipur,T002932,2025-01-05 12:11:27,,POS,0.0
+transactions,empty amount,4021723455704089.0,,,,,M011,,,Delhi,T003159,2025-01-05 17:06:50,,Online,0.0
+transactions,empty amount,4750265987948232.0,,,,,M069,,,Bengaluru,T003216,2025-01-05 18:02:59,,POS,0.0
+transactions,empty amount,4134552208413146.0,,,,,M006,,,Bengaluru,T003267,2025-01-05 18:56:27,,POS,0.0
+transactions,empty amount,4961897664549513.0,,,,,M040,,,Mumbai,T003322,2025-01-05 20:01:00,,POS,0.0
+transactions,empty amount,4649233155245308.0,,,,,M030,,,Hyderabad,T004025,2025-01-06 22:19:45,,Online,0.0
+transactions,empty amount,4448245613254350.0,,,,,M024,,,Ahmedabad,T004595,2025-01-07 19:46:45,,POS,0.0
+transactions,empty amount,4905791852914259.0,,,,,M072,,,Lucknow,T004611,2025-01-07 20:07:34,,POS,0.0
+transactions,empty amount,4994701748935023.0,,,,,M005,,,Jaipur,T004618,2025-01-07 20:18:43,,Online,0.0
+transactions,empty amount,4155441564083422.0,,,,,M080,,,Chennai,T004631,2025-01-07 20:42:19,,Online,0.0
+transactions,empty amount,4398552506701540.0,,,,,M013,,,Chennai,T005495,2025-01-09 10:17:32,,POS,1.0
+transactions,empty amount,4961897664549513.0,,,,,M069,,,Mumbai,T005499,2025-01-09 10:20:42,,POS,0.0
+transactions,empty amount,4284807588649889.0,,,,,M001,,,Ahmedabad,T006499,2025-01-10 16:38:27,,POS,0.0
+transactions,empty amount,4630011844576398.0,,,,,M016,,,Ahmedabad,T006784,2025-01-11 07:23:29,,POS,0.0
+transactions,empty amount,4471096206143132.0,,,,,M008,,,Mumbai,T006888,2025-01-11 10:58:49,,POS,0.0
+transactions,empty amount,4882825566034077.0,,,,,M032,,,Bengaluru,T007574,2025-01-12 11:23:36,,Online,0.0
+transactions,empty amount,4200183430584859.0,,,,,M013,,,Ahmedabad,T007760,2025-01-12 15:41:35,,POS,0.0
+transactions,empty amount,4319132488599665.0,,,,,M009,,,Ahmedabad,T008601,2025-01-13 19:47:49,,Online,0.0
+transactions,empty amount,4245258973023209.0,,,,,M008,,,Mumbai,T009271,2025-01-14 19:07:16,,POS,0.0
+transactions,empty amount,4989823069204872.0,,,,,M048,,,Bengaluru,T009373,2025-01-14 21:18:09,,POS,0.0
+transactions,empty amount,4461099430154907.0,,,,,M032,,,Chennai,T009412,2025-01-14 23:46:56,,Online,0.0
+transactions,empty amount,4304704603760831.0,,,,,M069,,,Delhi,T009853,2025-01-15 16:23:14,,POS,0.0
+transactions,empty amount,4451046500185254.0,,,,,M058,,,Lucknow,T010713,2025-01-16 19:23:37,,POS,0.0
+transactions,empty amount,4592132824903666.0,,,,,M031,,,Hyderabad,T010870,2025-01-17 07:02:49,,Online,0.0
+transactions,empty amount,4232569940528873.0,,,,,M010,,,Bengaluru,T010997,2025-01-17 10:56:00,,POS,0.0
+transactions,empty amount,4406386861440070.0,,,,,M054,,,Chennai,T011384,2025-01-17 18:54:45,,Online,0.0
+transactions,empty amount,4798448344828056.0,,,,,M006,,,Lucknow,T011442,2025-01-17 20:19:12,,POS,0.0
+transactions,empty amount,4791451487807621.0,,,,,M019,,,Mumbai,T011545,2025-01-18 08:06:52,,POS,0.0
+transactions,empty amount,4333637758328237.0,,,,,M023,,,Hyderabad,T011686,2025-01-18 11:53:45,,POS,0.0
+transactions,empty amount,4477200633282924.0,,,,,M009,,,Lucknow,T012069,2025-01-18 19:40:03,,POS,0.0
+transactions,empty amount,4657863285040527.0,,,,,M012,,,Delhi,T012418,2025-01-19 13:22:54,,Online,0.0
+transactions,empty amount,4366608384932612.0,,,,,M017,,,Ahmedabad,T012490,2025-01-19 15:22:51,,POS,0.0
+transactions,empty amount,4378318014223785.0,,,,,M066,,,Kolkata,T013063,2025-01-20 12:55:03,,POS,0.0
+transactions,empty amount,4508167355812874.0,,,,,M005,,,Ahmedabad,T013784,2025-01-21 15:02:13,,POS,0.0
+transactions,empty amount,4034470992832762.0,,,,,M013,,,Chennai,T014602,2025-01-22 17:08:25,,POS,0.0
+transactions,empty amount,4045114745709278.0,,,,,M023,,,Lucknow,T014623,2025-01-22 17:32:59,,POS,0.0
+transactions,empty amount,4392484734264943.0,,,,,M026,,,Lucknow,T014806,2025-01-22 21:33:43,,Online,0.0
+transactions,empty amount,4858125304624822.0,,,,,M017,,,Lucknow,T015389,2025-01-23 18:56:37,,POS,0.0
+transactions,empty amount,4274570243460918.0,,,,,M015,,,Unknown,T015612,2025-01-24 08:20:49,,POS,0.0
+transactions,empty amount,4031581330692998.0,,,,,M053,,,Hyderabad,T015660,2025-01-24 09:31:09,,Online,0.0
+transactions,empty amount,4916848407629194.0,,,,,M016,,,Pune,T015819,2025-01-24 13:05:10,,POS,0.0
+transactions,empty amount,4233939485865340.0,,,,,M029,,,Bengaluru,T016405,2025-01-25 11:59:05,,Online,0.0
+transactions,empty amount,4523752948717636.0,,,,,M043,,,Mumbai,T016436,2025-01-25 12:26:01,,Online,0.0
+transactions,empty amount,4933023221600210.0,,,,,M016,,,Chennai,T016478,2025-01-25 13:05:13,,POS,0.0
+transactions,empty amount,4480910428300078.0,,,,,M025,,,Chennai,T017467,2025-01-26 19:53:50,,POS,0.0
+transactions,empty amount,4465212471563572.0,,,,,M023,,,Delhi,T018203,2025-01-28 05:00:14,,POS,0.0
+transactions,empty amount,4259439839854534.0,,,,,M007,,,Bengaluru,T018326,2025-01-28 10:47:36,,POS,0.0
+transactions,empty amount,4822761613270829.0,,,,,M045,,,Hyderabad,T018614,2025-01-28 17:40:05,,POS,0.0
+transactions,empty amount,4983417075992936.0,,,,,M044,,,Chennai,T019085,2025-01-29 12:08:41,,POS,0.0
+transactions,empty amount,4209277347571950.0,,,,,M011,,,Delhi,T019342,2025-01-29 17:41:44,,POS,0.0
+transactions,empty amount,4295359025344089.0,,,,,M009,,,Chennai,T019531,2025-01-29 21:47:19,,POS,0.0
+transactions,empty amount,4322215673822938.0,,,,,M004,,,Delhi,T019767,2025-01-30 11:57:44,,POS,0.0
+transactions,empty amount,4893130306070031.0,,,,,M011,,,Delhi,T020002,2025-01-30 17:08:30,,POS,0.0
+transactions,empty amount,4749705751044636.0,,,,,M012,,,Bengaluru,T020456,2025-01-31 12:17:43,,POS,0.0
+transactions,empty amount,4050960482574886.0,,,,,M052,,,Lucknow,T020530,2025-01-31 13:56:55,,Online,0.0
+transactions,empty amount,4774907903381327.0,,,,,M017,,,Kolkata,T020630,2025-01-31 15:59:28,,POS,0.0
+transactions,empty amount,4060330818574221.0,,,,,M007,,,Kolkata,T020767,2025-01-31 19:01:25,,POS,0.0
+transactions,empty amount,4894728581714730.0,,,,,M008,,,Ahmedabad,T020799,2025-01-31 19:29:05,,POS,0.0
+transactions,empty amount,4125663852868535.0,,,,,M026,,,Lucknow,T020872,2025-01-31 21:42:15,,Online,0.0
+transactions,empty amount,4599426808579934.0,,,,,M001,,,Pune,T020947,2025-02-01 07:59:47,,POS,0.0
+transactions,empty amount,4292059330314528.0,,,,,M008,,,Pune,T021379,2025-02-01 18:18:28,,POS,0.0
+transactions,empty amount,4776688676349289.0,,,,,M018,,,Bengaluru,T021672,2025-02-02 09:48:13,,POS,0.0
+transactions,empty amount,4523090499279314.0,,,,,M009,,,Chennai,T021730,2025-02-02 11:13:07,,POS,0.0
+transactions,empty amount,4067527314418053.0,,,,,M014,,,Bengaluru,T021943,2025-02-02 16:18:47,,POS,0.0
+transactions,empty amount,4214092289336720.0,,,,,M053,,,Hyderabad,T022310,2025-02-03 09:42:33,,Online,0.0
+transactions,empty amount,4023756506457186.0,,,,,M007,,,Lucknow,T022915,2025-02-04 07:25:07,,POS,0.0
+transactions,empty amount,4994701748935023.0,,,,,M045,,,Jaipur,T022944,2025-02-04 08:25:03,,POS,0.0
+transactions,empty amount,4477648769572970.0,,,,,M015,,,Jaipur,T024068,2025-02-05 18:42:31,,POS,0.0
+transactions,empty amount,4648596791470431.0,,,,,M001,,,Kolkata,T024095,2025-02-05 19:22:14,,POS,0.0
+transactions,empty amount,4167699519677780.0,,,,,M033,,,Delhi,T024347,2025-02-06 10:14:03,,POS,0.0
+transactions,empty amount,4971994342701769.0,,,,,M062,,,Chennai,T025598,2025-02-08 07:50:49,,POS,0.0
+transactions,empty amount,4556190296797788.0,,,,,M038,,,Jaipur,T025864,2025-02-08 14:04:11,,POS,0.0
+transactions,empty amount,4516087801257111.0,,,,,M051,,,Jaipur,T025910,2025-02-08 15:19:32,,Online,0.0
+transactions,empty amount,4649827422563277.0,,,,,M005,,,Mumbai,T026337,2025-02-09 10:17:42,,POS,0.0
+transactions,empty amount,4107312362832520.0,,,,,M009,,,Hyderabad,T026861,2025-02-09 20:45:15,,Online,0.0
+transactions,empty amount,4188836420475638.0,,,,,M015,,,Bengaluru,T027121,2025-02-10 11:45:16,,POS,0.0
+transactions,empty amount,4358672791527910.0,,,,,M014,,,Kolkata,T027761,2025-02-11 10:58:16,,POS,0.0
+transactions,empty amount,4983417075992936.0,,,,,M025,,,Chennai,T028110,2025-02-11 18:50:20,,Online,0.0
+transactions,empty amount,4244627132759028.0,,,,,M003,,,Lucknow,T028250,2025-02-11 23:28:39,,POS,0.0
+transactions,empty amount,4894728581714730.0,,,,,M007,,,Ahmedabad,T028984,2025-02-13 09:06:34,,POS,0.0
+transactions,empty amount,4024450840882014.0,,,,,M003,,,Lucknow,T030032,2025-02-14 17:32:37,,POS,0.0
+transactions,empty amount,4545204901222639.0,,,,,M042,,,Hyderabad,T030231,2025-02-14 23:17:04,,POS,0.0
+transactions,empty amount,4799512605718227.0,,,,,M002,,,Hyderabad,T030339,2025-02-15 09:50:00,,Online,0.0
+transactions,empty amount,4780729031021967.0,,,,,M004,,,Pune,T030509,2025-02-15 13:35:55,,POS,0.0
+transactions,empty amount,4228645602662114.0,,,,,M040,,,Kolkata,T031101,2025-02-16 11:07:01,,POS,0.0
+transactions,empty amount,4322463318581777.0,,,,,M019,,,Ahmedabad,T031275,2025-02-16 14:49:17,,POS,0.0
+transactions,empty amount,4502874936980352.0,,,,,M035,,,Pune,T031773,2025-02-17 11:25:38,,POS,0.0
+transactions,empty amount,4281383892021996.0,,,,,M014,,,Mumbai,T031980,2025-02-17 16:03:27,,POS,0.0
+transactions,empty amount,4536200413111374.0,,,,,M049,,,Lucknow,T032125,2025-02-17 18:53:46,,Online,0.0
+transactions,empty amount,4431519003687354.0,,,,,M002,,,Hyderabad,T032221,2025-02-17 20:48:40,,Online,0.0
+transactions,empty amount,4013777355294050.0,,,,,M065,,,Pune,T032603,2025-02-18 15:09:59,,POS,0.0
+transactions,empty amount,4633149182144708.0,,,,,M065,,,Mumbai,T032604,2025-02-18 15:11:36,,POS,0.0
+transactions,empty amount,4021156011423293.0,,,,,M027,,,Bengaluru,T033150,2025-02-19 11:36:43,,Online,0.0
+transactions,empty amount,4169799973772707.0,,,,,M009,,,Chennai,T034743,2025-02-21 16:43:07,,POS,0.0
+transactions,empty amount,4474132675090169.0,,,,,M013,,,Bengaluru,T035167,2025-02-22 11:48:27,,POS,0.0
+transactions,empty amount,4959096063371109.0,,,,,M030,,,Hyderabad,T035275,2025-02-22 13:46:34,,Online,0.0
+transactions,empty amount,4286446226882054.0,,,,,M050,,,Kolkata,T035758,2025-02-23 09:38:01,,Online,0.0
+transactions,empty amount,4169714105098560.0,,,,,M040,,,Hyderabad,T035760,2025-02-23 09:41:55,,POS,0.0
+transactions,empty amount,4482376004629113.0,,,,,M078,,,Jaipur,T036183,2025-02-23 18:17:24,,Online,0.0
+transactions,empty amount,4257372313055145.0,,,,,M019,,,Pune,T036784,2025-02-24 16:33:31,,POS,0.0
+transactions,empty amount,4977916979073839.0,,,,,M005,,,Delhi,T037192,2025-02-25 11:13:09,,POS,0.0
+transactions,empty amount,4617660240169995.0,,,,,M016,,,Kolkata,T037335,2025-02-25 14:11:30,,POS,0.0
+transactions,empty amount,4269130500722805.0,,,,,M024,,,Lucknow,T037347,2025-02-25 14:34:47,,POS,0.0
+transactions,empty amount,4618714778169641.0,,,,,M008,,,Pune,T037596,2025-02-25 20:04:24,,POS,0.0
+transactions,empty amount,4014124733476824.0,,,,,M065,,,Lucknow,T037785,2025-02-26 09:31:03,,POS,0.0
+transactions,empty amount,4414353771994360.0,,,,,M029,,,Mumbai,T037946,2025-02-26 12:56:52,,POS,0.0
+transactions,empty amount,4844272357582443.0,,,,,M054,,,Pune,T038033,2025-02-26 14:49:21,,Online,0.0
+transactions,empty amount,4705028196524192.0,,,,,M057,,,Ahmedabad,T038548,2025-02-27 11:09:28,,POS,0.0
+transactions,empty amount,4646290763228558.0,,,,,M002,,,Pune,T038851,2025-02-27 17:22:46,,POS,0.0
+transactions,empty amount,4982144296317843.0,,,,,M008,,,Hyderabad,T039068,2025-02-27 22:26:55,,POS,0.0
+transactions,empty amount,4773720682751625.0,,,,,M009,,,Pune,T039609,2025-02-28 19:18:53,,POS,0.0
+transactions,empty amount,4978045745787979.0,,,,,M060,,,Chennai,T040584,2025-03-02 11:36:38,,Online,0.0
+transactions,empty amount,4090579058535439.0,,,,,M003,,,Lucknow,T040640,2025-03-02 12:33:33,,Online,0.0
+transactions,empty amount,4505276922293095.0,,,,,M027,,,Lucknow,T041392,2025-03-03 14:24:01,,POS,0.0
+transactions,empty amount,4089753235251195.0,,,,,M078,,,Jaipur,T041670,2025-03-03 20:35:27,,Online,0.0
+transactions,empty amount,4562668013831932.0,,,,,M003,,,Pune,T042083,2025-03-04 15:16:05,,Online,0.0
+transactions,empty amount,4244627132759028.0,,,,,M008,,,Jaipur,T042267,2025-03-04 18:57:38,,POS,0.0
+transactions,empty amount,4913285183701974.0,,,,,M015,,,Mumbai,T042556,2025-03-05 10:56:25,,POS,0.0
+transactions,empty amount,4979224633707278.0,,,,,M074,,,Mumbai,T042689,2025-03-05 13:27:14,,Online,0.0
+transactions,empty amount,4856548023574557.0,,,,,M058,,,Hyderabad,T042955,2025-03-05 19:18:33,,POS,0.0
+transactions,empty amount,4652587340560101.0,,,,,M001,,,Pune,T043179,2025-03-06 09:41:06,,POS,0.0
+transactions,empty amount,4525283163572682.0,,,,,M013,,,Pune,T043649,2025-03-06 19:48:17,,Online,0.0
+transactions,empty amount,4608129211914590.0,,,,,M004,,,Chennai,T043849,2025-03-07 09:25:32,,POS,0.0
+transactions,empty amount,4257451959323963.0,,,,,M015,,,Bengaluru,T044201,2025-03-07 17:38:20,,POS,0.0
+transactions,empty amount,4837475743787776.0,,,,,M025,,,Jaipur,T044488,2025-03-08 09:40:00,,Online,0.0
+transactions,empty amount,4680034935407890.0,,,,,M047,,,Bengaluru,T044966,2025-03-08 19:55:54,,POS,0.0
+transactions,empty amount,4343292462378907.0,,,,,M024,,,Bengaluru,T045416,2025-03-09 15:04:50,,POS,0.0
+transactions,empty amount,4650794589717736.0,,,,,M019,,,Pune,T045554,2025-03-09 18:14:34,,Online,0.0
+transactions,empty amount,4266975663091893.0,,,,,M017,,,Mumbai,T045946,2025-03-10 11:59:02,,POS,0.0
+transactions,empty amount,4225297338782333.0,,,,,M026,,,Chennai,T046632,2025-03-11 12:22:43,,Online,0.0
+transactions,empty amount,4726994614286881.0,,,,,M049,,,Ahmedabad,T046658,2025-03-11 12:48:46,,POS,0.0
+transactions,empty amount,4526773231362307.0,,,,,M016,,,Mumbai,T046824,2025-03-11 17:03:22,,POS,0.0
+transactions,empty amount,4319665567627086.0,,,,,M037,,,Kolkata,T047816,2025-03-13 08:37:39,,POS,1.0
+transactions,empty amount,4119672555864894.0,,,,,M033,,,Mumbai,T047901,2025-03-13 10:40:47,,POS,0.0
+transactions,empty amount,4021723455704089.0,,,,,M040,,,Delhi,T048225,2025-03-13 18:18:45,,POS,0.0
+transactions,empty amount,4053325084933340.0,,,,,M037,,,Bengaluru,T048361,2025-03-13 21:12:05,,Online,0.0
+transactions,empty amount,4136821278029626.0,,,,,M003,,,Hyderabad,T048910,2025-03-14 18:22:12,,Online,0.0
+transactions,empty amount,4662864212763581.0,,,,,M027,,,Delhi,T049208,2025-03-15 10:21:48,,Online,0.0
+transactions,empty amount,4981805947542534.0,,,,,M017,,,Mumbai,T049262,2025-03-15 11:28:52,,Online,0.0
+transactions,empty amount,4649827422563277.0,,,,,M004,,,Mumbai,T049303,2025-03-15 12:18:58,,POS,0.0
+transactions,empty amount,4742906309858081.0,,,,,M031,,,Lucknow,T049542,2025-03-15 17:03:15,,Online,0.0
+transactions,empty amount,4160389324067735.0,,,,,M031,,,Jaipur,T049621,2025-03-15 18:25:06,,Online,0.0
+transactions,empty amount,4940351412538179.0,,,,,M030,,,Mumbai,T049665,2025-03-15 19:04:06,,Online,0.0
+transactions,empty amount,4754271514937891.0,,,,,M002,,,Pune,T049994,2025-03-16 11:24:57,,Online,0.0
+transactions,empty amount,4787463874631501.0,,,,,M007,,,Jaipur,T050175,2025-03-16 15:38:13,,Online,0.0
+transactions,empty amount,4927668402454220.0,,,,,M061,,,Chennai,T050268,2025-03-16 17:40:36,,POS,0.0
+transactions,empty amount,4431519003687354.0,,,,,M021,,,Hyderabad,T050291,2025-03-16 18:10:32,,Online,0.0
+transactions,empty amount,4247839562951357.0,,,,,M039,,,Chennai,T050652,2025-03-17 11:24:30,,POS,0.0
+transactions,empty amount,4530723291060233.0,,,,,M025,,,Hyderabad,T050659,2025-03-17 11:39:05,,POS,0.0
+transactions,empty amount,4779477540771328.0,,,,,M014,,,Ahmedabad,T051048,2025-03-17 20:00:27,,POS,0.0
+transactions,empty amount,4894728581714730.0,,,,,M025,,,Ahmedabad,T051385,2025-03-18 12:47:47,,Online,0.0
+transactions,empty amount,4259439839854534.0,,,,,M005,,,Bengaluru,T051391,2025-03-18 12:52:52,,POS,0.0
+transactions,empty amount,4798448344828056.0,,,,,M046,,,Lucknow,T051666,2025-03-18 19:05:18,,POS,0.0
+transactions,empty amount,4266975663091893.0,,,,,M019,,,Mumbai,T051785,2025-03-18 22:00:38,,Online,0.0
+transactions,empty amount,4587521780528873.0,,,,,M016,,,Mumbai,T051918,2025-03-19 09:49:55,,POS,0.0
+transactions,empty amount,4370912321541668.0,,,,,M013,,,Kolkata,T051962,2025-03-19 10:36:49,,POS,0.0
+transactions,empty amount,4918823193530682.0,,,,,M007,,,Bengaluru,T052102,2025-03-19 13:38:16,,POS,0.0
+transactions,empty amount,4241372061626662.0,,,,,M030,,,Kolkata,T052232,2025-03-19 16:38:35,,POS,0.0
+transactions,empty amount,4265809413275065.0,,,,,M019,,,Lucknow,T052864,2025-03-20 15:40:38,,POS,0.0
+transactions,empty amount,4613605435046923.0,,,,,M035,,,Jaipur,T053201,2025-03-21 07:09:49,,POS,0.0
+transactions,empty amount,4397233301472823.0,,,,,M001,,,Delhi,T053326,2025-03-21 11:14:40,,POS,0.0
+transactions,empty amount,4696724945274552.0,,,,,M010,,,Delhi,T053483,2025-03-21 14:46:26,,POS,0.0
+transactions,empty amount,4408528643724635.0,,,,,M069,,,Mumbai,T053531,2025-03-21 15:39:29,,POS,0.0
+transactions,empty amount,4258557178148739.0,,,,,M038,,,Lucknow,T054149,2025-03-22 14:13:36,,POS,0.0
+transactions,empty amount,4014682843560070.0,,,,,M004,,,Hyderabad,T054239,2025-03-22 16:08:17,,POS,0.0
+transactions,empty amount,4988447413831929.0,,,,,M077,,,Hyderabad,T054564,2025-03-23 06:19:03,,Online,0.0
+transactions,empty amount,4423495394679653.0,,,,,M002,,,Delhi,T054737,2025-03-23 11:48:00,,POS,0.0
+transactions,empty amount,4959774522329219.0,,,,,M029,,,Ahmedabad,T054796,2025-03-23 13:09:38,,Online,0.0
+transactions,empty amount,4468405319615672.0,,,,,M063,,,Chennai,T054947,2025-03-23 16:01:57,,POS,0.0
+transactions,empty amount,4652787224491314.0,,,,,M020,,,Lucknow,T054981,2025-03-23 16:35:03,,POS,0.0
+transactions,empty amount,4639013649264164.0,,,,,M038,,,Hyderabad,T055002,2025-03-23 17:01:37,,Online,0.0
+transactions,empty amount,4155212992441090.0,,,,,M065,,,Chennai,T055632,2025-03-24 16:18:59,,Online,0.0
+transactions,empty amount,4416665998039879.0,,,,,M004,,,Ahmedabad,T056086,2025-03-25 11:50:40,,POS,0.0
+transactions,empty amount,4525088302967260.0,,,,,M026,,,Hyderabad,T057146,2025-03-26 19:53:53,,POS,0.0
+transactions,empty amount,4299125144166521.0,,,,,M040,,,Hyderabad,T057489,2025-03-27 13:05:37,,POS,0.0
+transactions,empty amount,4754271514937891.0,,,,,M020,,,Pune,T057966,2025-03-28 07:04:16,,POS,0.0
+transactions,empty amount,4711409347709741.0,,,,,M033,,,Mumbai,T058344,2025-03-28 16:25:38,,POS,0.0
+transactions,empty amount,4521918470769253.0,,,,,M037,,,Bengaluru,T058591,2025-03-28 22:00:10,,POS,0.0
+transactions,empty amount,4070114432044183.0,,,,,M054,,,Hyderabad,T058923,2025-03-29 13:47:29,,Online,0.0
+transactions,empty amount,4640439212103640.0,,,,,M029,,,Pune,T059146,2025-03-29 19:18:00,,Online,1.0
+transactions,empty amount,4475022444004360.0,,,,,M017,,,Pune,T059185,2025-03-29 20:05:24,,POS,0.0
+transactions,empty amount,4723745290191837.0,,,,,M018,,,Bengaluru,T059387,2025-03-30 09:56:17,,POS,0.0
+transactions,empty amount,4446389492143709.0,,,,,M073,,,Bengaluru,T059604,2025-03-30 14:35:27,,Online,0.0
+transactions,empty amount,4302964628837301.0,,,,,M039,,,Pune,T059983,2025-03-31 02:54:07,,Online,0.0
+transactions,empty amount,4995009417323809.0,,,,,M026,,,Pune,T060132,2025-03-31 10:56:36,,Online,0.0
+transactions,empty amount,4814638443117881.0,,,,,M050,,,Chennai,T060479,2025-03-31 18:32:16,,POS,1.0
+transactions,zero or negative amount,4821230786597844.0,,,,,M004,,,Lucknow,T001593,2025-01-03 12:29:21,-360.29,POS,0.0
+transactions,zero or negative amount,4429957049900047.0,,,,,M017,,,Mumbai,T003188,2025-01-05 17:30:34,0.0,POS,0.0
+transactions,zero or negative amount,4466721003727033.0,,,,,M034,,,Pune,T011304,2025-01-17 17:23:46,0.0,POS,0.0
+transactions,zero or negative amount,4703777694540223.0,,,,,M013,,,Pune,T011463,2025-01-17 20:57:04,0.0,POS,0.0
+transactions,zero or negative amount,4603405957487608.0,,,,,M039,,,Hyderabad,T012620,2025-01-19 18:18:29,-893.73,POS,0.0
+transactions,zero or negative amount,4265809413275065.0,,,,,M058,,,Lucknow,T013997,2025-01-21 19:11:56,0.0,Online,0.0
+transactions,zero or negative amount,4667489923146757.0,,,,,M032,,,Pune,T015742,2025-01-24 11:41:24,0.0,Online,0.0
+transactions,zero or negative amount,4244796501550145.0,,,,,M074,,,Bengaluru,T016909,2025-01-26 07:09:19,-1260.76,Online,0.0
+transactions,zero or negative amount,4286446226882054.0,,,,,M019,,,Kolkata,T019688,2025-01-30 10:21:57,0.0,POS,0.0
+transactions,zero or negative amount,4504526237022229.0,,,,,M004,,,Ahmedabad,T022292,2025-02-03 09:11:32,-1009.89,Online,0.0
+transactions,zero or negative amount,4202405279503762.0,,,,,M047,,,Ahmedabad,T026463,2025-02-09 13:15:28,-16811.62,POS,0.0
+transactions,zero or negative amount,4167699519677780.0,,,,,M005,,,Delhi,T027042,2025-02-10 09:41:38,-626.78,POS,0.0
+transactions,zero or negative amount,4749983537935267.0,,,,,M078,,,Jaipur,T034482,2025-02-21 10:48:19,-2506.36,Online,0.0
+transactions,zero or negative amount,4779477540771328.0,,,,,M032,,,Ahmedabad,T035034,2025-02-22 08:09:05,-1454.45,Online,0.0
+transactions,zero or negative amount,4542364402302204.0,,,,,M010,,,Chennai,T037084,2025-02-25 08:14:22,0.0,POS,0.0
+transactions,zero or negative amount,4150129556749256.0,,,,,M031,,,Ahmedabad,T038438,2025-02-27 08:27:14,-5025.26,Online,0.0
+transactions,zero or negative amount,4997034657837572.0,,,,,M063,,,Lucknow,T048590,2025-03-14 11:47:35,0.0,POS,0.0
+transactions,zero or negative amount,4232640741966433.0,,,,,M040,,,Lucknow,T051144,2025-03-18 06:17:20,-2357.87,POS,0.0
+transactions,zero or negative amount,4139787590469868.0,,,,,M037,,,Ahmedabad,T051209,2025-03-18 09:26:22,0.0,Online,0.0
+transactions,zero or negative amount,4972346247933597.0,,,,,M014,,,Pune,T051383,2025-03-18 12:45:09,0.0,POS,0.0
+transactions,zero or negative amount,4836896579660937.0,,,,,M008,,,Lucknow,T054274,2025-03-22 16:44:10,0.0,POS,0.0
+transactions,zero or negative amount,4354725321196550.0,,,,,M025,,,Hyderabad,T054678,2025-03-23 10:34:02,0.0,Online,0.0
+transactions,zero or negative amount,4858125304624822.0,,,,,M022,,,Lucknow,T055461,2025-03-24 12:10:54,0.0,POS,0.0
+transactions,zero or negative amount,4631628542171317.0,,,,,M028,,,Pune,T057897,2025-03-27 21:00:08,0.0,Online,0.0
+transactions,zero or negative amount,4434349248225295.0,,,,,M003,,,Lucknow,T058784,2025-03-29 11:06:46,-217.56,POS,0.0
+transactions,card_id not in cards.csv,9999000000000002.0,,,,,M004,,,Hyderabad,T003174,2025-01-05 17:17:23,305.89,POS,0.0
+transactions,card_id not in cards.csv,9999000000000004.0,,,,,M022,,,Bengaluru,T007897,2025-01-12 18:55:00,923.44,POS,0.0
+transactions,card_id not in cards.csv,9999000000000014.0,,,,,M058,,,Chennai,T011300,2025-01-17 17:18:46,633.68,POS,0.0
+transactions,card_id not in cards.csv,9999000000000008.0,,,,,M021,,,Ahmedabad,T014633,2025-01-22 17:53:06,1927.69,POS,0.0
+transactions,card_id not in cards.csv,9999000000000000.0,,,,,M019,,,Jaipur,T030154,2025-02-14 20:05:42,1296.94,Online,0.0
+transactions,card_id not in cards.csv,9999000000000006.0,,,,,M032,,,Chennai,T035401,2025-02-22 17:04:15,1813.4,Online,0.0
+transactions,card_id not in cards.csv,9999000000000012.0,,,,,M006,,,Mumbai,T037681,2025-02-25 22:32:01,1923.73,POS,0.0
+transactions,card_id not in cards.csv,9999000000000010.0,,,,,M011,,,Ahmedabad,T040673,2025-03-02 13:12:55,335.06,POS,0.0
+transactions,card_id not in cards.csv,9999000000000012.0,,,,,M028,,,Lucknow,T041964,2025-03-04 12:38:55,4153.57,Online,0.0
+transactions,card_id not in cards.csv,9999000000000008.0,,,,,M006,,,Delhi,T045466,2025-03-09 16:20:35,654.3,POS,0.0
+transactions,card_id not in cards.csv,9999000000000004.0,,,,,M030,,,Lucknow,T049304,2025-03-15 12:19:45,1140.32,Online,0.0
+transactions,card_id not in cards.csv,9999000000000012.0,,,,,M061,,,Lucknow,T054675,2025-03-23 10:30:26,2339.08,POS,0.0
+transactions,card_id not in cards.csv,9999000000000008.0,,,,,M017,,,Chennai,T056853,2025-03-26 13:19:20,1427.47,POS,0.0
+transactions,card_id not in cards.csv,9999000000000004.0,,,,,M006,,,Jaipur,T057566,2025-03-27 14:35:35,864.9,POS,0.0
+transactions,card_id not in cards.csv,9999000000000000.0,,,,,M022,,,Jaipur,T058991,2025-03-29 15:39:11,1607.03,POS,0.0
