@@ -1,4 +1,4 @@
-Problem Statement
+* **Problem Statement**
 
 
 
@@ -18,7 +18,7 @@ rules, and check how well they work.
 
 
 
-Objectives
+* **Objectives**
 
 1\. Clean the data and write down every problem I fix, so no duplicates are left.
 
@@ -36,7 +36,7 @@ Objectives
 
 
 
-Business Questions
+* **Business Questions**
 
 1\. What part of all transactions is fraud, and how much money is lost?
 
