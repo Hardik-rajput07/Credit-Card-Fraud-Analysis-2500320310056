@@ -1,4 +1,4 @@
-Project Synopsis
+\# Project Synopsis
 
 
 
@@ -10,9 +10,9 @@ money. It is also hard to find because the fraud transactions are hidden among
 
 thousands of normal ones. In this project, I will study a credit card
 
-transaction dataset to understand how fraud looks and see if some simple rules
+transaction dataset to understand how fraud looks and to see if some simple
 
-can catch it.
+rules can catch it.
 
 
 
@@ -78,21 +78,19 @@ README, GitHub repository and a demo video.
 
 6-Week Plan:
 
-| Week | What I will do |
+\- Week 1: Write the problem statement, synopsis and SRS, and set up GitHub
 
-|------|----------------|
+\- Week 2: Get the dataset, write the data dictionary and clean the data
 
-| 1 | Write the problem statement, synopsis and SRS, and set up GitHub |
+\- Week 3: Build the fraud rules in Python and write test cases
 
-| 2 | Get the dataset, write the data dictionary and clean the data |
+\- Week 4: Write the SQL schema, queries and views
 
-| 3 | Build the fraud rules in Python and write test cases |
+\- Week 5: Build the Power BI dashboard
 
-| 4 | Write the SQL schema, queries and views |
+\- Week 6: Write the reports and README, record the demo video and do a final
 
-| 5 | Build the Power BI dashboard |
-
-| 6 | Write the reports and README, record the demo video and do a final check |
+&#x20; check
 
 
 
