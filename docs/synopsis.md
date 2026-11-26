@@ -1,8 +1,8 @@
-\# Project Synopsis
+**Project Synopsis**
 
 
 
-Problem:
+**Problem:**
 
 Credit card fraud does not happen often, but when it does, it costs a lot of
 
@@ -16,7 +16,7 @@ rules can catch it.
 
 
 
-Objectives:
+**Objectives:**
 
 1\. Clean the data and write down every problem I fix.
 
@@ -30,7 +30,7 @@ Objectives:
 
 
 
-Scope:
+**Scope:**
 
 What I will do:
 
@@ -42,7 +42,7 @@ What I will do:
 
 
 
-What I will not do:
+**What I will not do:**
 
 \- Build machine learning models
 
@@ -52,7 +52,7 @@ What I will not do:
 
 
 
-Data Source:
+**Data Source:**
 
 A public credit card fraud dataset from Kaggle. I will write the exact source,
 
@@ -60,13 +60,13 @@ licence and column details in docs/dataset.md.
 
 
 
-Tools:
+**Tools:**
 
 Python (pandas), SQL, Power BI, Git and GitHub.
 
 
 
-Deliverables:
+**Deliverables:**
 
 Problem statement, synopsis, SRS, data dictionary, cleaning script, SQL
 
@@ -76,7 +76,7 @@ README, GitHub repository and a demo video.
 
 
 
-6-Week Plan:
+**6-Week Plan:**
 
 \- Week 1: Write the problem statement, synopsis and SRS, and set up GitHub
 
@@ -94,7 +94,7 @@ README, GitHub repository and a demo video.
 
 
 
-Expected Outcome:
+**Expected Outcome:**
 
 At the end, I will have a clean dataset, at least 3 working fraud rules with
 
