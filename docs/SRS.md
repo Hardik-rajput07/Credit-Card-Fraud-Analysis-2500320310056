@@ -1,24 +1,14 @@
-Software Requirements Specification (SRS)
-
-Project: Credit Card Transaction and Fraud Pattern Analysis
+SRS - Credit Card Fraud Analysis
 
 
 
 1\. Introduction
 
-1.1 Purpose
+This document says what my project must do and how I will check that it works.
 
-This document explains what my project must do and how I will check that it
+In this project I take a credit card transaction dataset, clean it, flag the
 
-works.
-
-
-
-1.2 Scope
-
-The project studies a public credit card transaction dataset, cleans it, flags
-
-suspicious transactions using simple rules, and shows the results in a Power BI
+suspicious transactions using simple rules, and show the result in a Power BI
 
 dashboard.
 
@@ -26,109 +16,119 @@ dashboard.
 
 2\. Overall Description
 
-2.1 Users
-
-\- Student (me), who builds and explains the project
-
-\- Mentors, who check the repository and the dashboard
-
-\- Bank analysts (imaginary users), who would read the dashboard to find
-
-&#x20; suspicious transactions
 
 
+Who will use it:
 
-2.2 Assumptions
+\- Me, to build and explain the project
 
-\- The dataset has a fraud label (fraud or not fraud) for each transaction.
+\- My mentors, to check the GitHub repo and the dashboard
 
-\- The dataset has a card ID, a time, and an amount for each transaction.
+\- A bank analyst (imaginary), who would use the dashboard to look at suspicious
 
-\- A sample of the data is enough if the full file is too big for my laptop.
+&#x20; transactions
 
 
 
-2.3 Constraints
+What I am assuming:
 
-\- Tools are limited to Python, SQL, Power BI, Git and GitHub.
+\- Every transaction in the dataset has a fraud label (fraud or not fraud)
 
-\- No machine learning models.
+\- The dataset has card ID, time and amount columns
 
-\- GitHub does not accept files over 100 MB, so the raw dataset is not uploaded.
-
-
-
-3\. Functional Requirements
-
-| ID  | Requirement | Priority |
-
-|-----|-------------|----------|
-
-| FR1 | The system shall load the raw dataset from data/raw. | High |
-
-| FR2 | The system shall remove duplicate transactions. | High |
-
-| FR3 | The system shall handle missing and invalid values and record each fix. | High |
-
-| FR4 | The system shall create an hour-of-day column from the transaction time. | High |
-
-| FR5 | The system shall flag transactions with an unusually high amount. | High |
-
-| FR6 | The system shall flag transactions made at unusual hours. | High |
-
-| FR7 | The system shall flag cards with many transactions in a short time. | High |
-
-| FR8 | The system shall compare flagged transactions with the real fraud label. | High |
-
-| FR9 | The system shall calculate precision and recall for each rule. | High |
-
-| FR10 | The system shall store the cleaned data in SQL tables and views. | Medium |
-
-| FR11 | The dashboard shall show flagged transactions with at least 3 slicers. | High |
-
-| FR12 | The system shall save a data-quality log of all cleaning steps. | Medium |
+\- If the file is too big for my laptop, I will use a smaller sample
 
 
 
-4\. Non-Functional Requirements
+Limits:
 
-| ID   | Requirement | How it is measured |
+\- I can only use Python, SQL, Power BI, Git and GitHub
 
-|------|-------------|--------------------|
+\- No machine learning
 
-| NFR1 | Cleaning script runs without errors. | Run it from start to end with no error. |
+\- GitHub does not take files over 100 MB, so I will not upload the raw data
 
-| NFR2 | Results can be repeated. | Running the script twice gives the same counts. |
 
-| NFR3 | Dashboard opens quickly. | Opens and refreshes in under 10 seconds. |
 
-| NFR4 | Code is easy to read. | Every script has comments and clear names. |
+3\. Functional Requirements (what the project must do)
 
-| NFR5 | Repository is organised. | Folders match the project structure. |
 
-| NFR6 | Dataset licence is respected. | Source and licence are written in docs/dataset.md. |
+
+\- FR1 (High): Load the raw dataset from the data/raw folder.
+
+\- FR2 (High): Remove duplicate transactions.
+
+\- FR3 (High): Fix missing and wrong values, and write each fix in a log.
+
+\- FR4 (High): Make an "hour of day" column from the transaction time.
+
+\- FR5 (High): Flag transactions that have a very high amount.
+
+\- FR6 (High): Flag transactions made at odd hours (late night).
+
+\- FR7 (High): Flag cards that make many transactions in a short time.
+
+\- FR8 (High): Compare my flags with the real fraud label.
+
+\- FR9 (High): Calculate precision and recall for each rule.
+
+\- FR10 (Medium): Store the clean data in SQL tables and views.
+
+\- FR11 (High): Show flagged transactions in Power BI with at least 3 slicers.
+
+\- FR12 (Medium): Save a data-quality log of all the cleaning steps.
+
+
+
+4\. Non-Functional Requirements (how well it must work)
+
+
+
+\- NFR1: The cleaning script runs from start to end without any error.
+
+&#x20; (Measured by running it once.)
+
+\- NFR2: The results are the same each time. (Measured by running the script
+
+&#x20; twice and comparing the counts.)
+
+\- NFR3: The dashboard opens and refreshes in under 10 seconds. (Measured with
+
+&#x20; a stopwatch.)
+
+\- NFR4: The code is easy to read. (Measured by checking that every script has
+
+&#x20; comments and clear names.)
+
+\- NFR5: The repo is well organised. (Measured by checking the folders against
+
+&#x20; the sample repo.)
+
+\- NFR6: The dataset licence is followed. (Measured by checking that the source
+
+&#x20; and licence are written in docs/dataset.md.)
 
 
 
 5\. Data Requirements
 
-\- Source: a public credit card fraud dataset from Kaggle.
+\- Source: a public credit card fraud dataset from Kaggle
 
-\- Needed columns: card ID, transaction time, amount, merchant category,
+\- Columns I need: card ID, transaction time, amount, merchant category,
 
-&#x20; location (if available) and fraud label.
+&#x20; location (if there is one) and the fraud label
 
-\- Expected problems: duplicates, missing values, wrong time formats, and very
+\- Problems I expect: duplicate rows, missing values, wrong time formats, and
 
-&#x20; few fraud rows compared to normal rows.
+&#x20; very few fraud rows compared to normal rows
 
 
 
-6\. Acceptance Criteria
+6\. Acceptance Criteria (how I know the project is done)
 
-1\. At least 3 fraud rules are working.
+1\. At least 3 fraud rules work.
 
-2\. Flagged transactions are compared with the real fraud labels.
+2\. The flagged transactions are compared with the real fraud labels.
 
 3\. Precision and recall are reported.
 
@@ -136,11 +136,9 @@ dashboard.
 
 5\. Transactions near midnight get the correct hour.
 
-6\. Class imbalance is explained, and accuracy is not used as the only measure.
+6\. I explain the class imbalance and do not use accuracy alone.
 
-7\. The Power BI dashboard has a flagged-transactions view with at least 3
+7\. The dashboard has a flagged-transaction view with at least 3 slicers.
 
-&#x20;  slicers.
-
-8\. The repository has the README, the test cases, and all the project files.
+8\. The repo has the README, test cases and all project files.
 
