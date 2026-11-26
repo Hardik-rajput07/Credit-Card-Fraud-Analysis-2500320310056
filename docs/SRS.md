@@ -1,8 +1,8 @@
-SRS - Credit Card Fraud Analysis
+**SRS - Credit Card Fraud Analysis**
 
 
 
-1\. Introduction
+**1. Introduction**
 
 This document says what my project must do and how I will check that it works.
 
@@ -14,7 +14,7 @@ dashboard.
 
 
 
-2\. Overall Description
+**2. Overall Description**
 
 
 
@@ -50,7 +50,7 @@ Limits:
 
 
 
-3\. Functional Requirements (what the project must do)
+**3. Functional Requirements**
 
 
 
@@ -80,7 +80,7 @@ Limits:
 
 
 
-4\. Non-Functional Requirements (how well it must work)
+**4. Non-Functional Requirements**
 
 
 
@@ -110,7 +110,7 @@ Limits:
 
 
 
-5\. Data Requirements
+**5. Data Requirements**
 
 \- Source: a public credit card fraud dataset from Kaggle
 
@@ -124,7 +124,7 @@ Limits:
 
 
 
-6\. Acceptance Criteria (how I know the project is done)
+**6. Acceptance Criteria**
 
 1\. At least 3 fraud rules work.
 
