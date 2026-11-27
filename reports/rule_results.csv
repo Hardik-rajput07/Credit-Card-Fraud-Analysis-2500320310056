@@ -1,0 +1,6 @@
+rule,flagged,caught_fraud,wrong_alarms,missed_fraud,precision,recall
+flag_high_amount,4119,256,3863,411,0.062,0.384
+flag_odd_hour,1036,168,868,499,0.162,0.252
+flag_velocity,49,45,4,622,0.918,0.067
+flag_any_rule,5057,378,4679,289,0.075,0.567
+flag_two_or_more,143,87,56,580,0.608,0.13
