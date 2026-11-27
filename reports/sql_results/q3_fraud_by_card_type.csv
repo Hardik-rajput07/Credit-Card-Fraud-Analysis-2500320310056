@@ -1,0 +1,4 @@
+card_type,payments,fraud_payments,fraud_rate_pct
+Mastercard,20797,248,1.19
+RuPay,11449,125,1.09
+Visa,28192,294,1.04

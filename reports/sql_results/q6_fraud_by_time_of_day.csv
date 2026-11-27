@@ -1,0 +1,5 @@
+time_of_day,payments,fraud_payments,fraud_rate_pct
+1 Night (0-5),1036,168,16.22
+2 Morning (6-11),16352,146,0.89
+3 Afternoon (12-17),24848,182,0.73
+4 Evening (18-23),18202,171,0.94

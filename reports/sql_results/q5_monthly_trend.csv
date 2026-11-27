@@ -1,0 +1,4 @@
+year,month,fraud_payments,last_month,change
+2025,1,203,,
+2025,2,220,203.0,17.0
+2025,3,244,220.0,24.0

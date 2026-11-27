@@ -1,0 +1,11 @@
+merchant_category,payments,fraud_payments,fraud_rate_pct
+electronics,2478,164,6.62
+travel,3077,92,2.99
+shopping_online,8513,216,2.54
+utilities,1857,29,1.56
+shopping_store,6010,51,0.85
+entertainment,4176,27,0.65
+fuel,7353,31,0.42
+health,2958,10,0.34
+grocery,13093,26,0.2
+food_dining,10923,21,0.19

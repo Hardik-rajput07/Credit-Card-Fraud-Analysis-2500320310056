@@ -1,0 +1,4 @@
+channel,payments,fraud_payments,fraud_rate_pct,avg_amount
+Online,18404,344,1.87,3658.17
+POS,41790,322,0.77,1878.15
+Unknown,244,1,0.41,2290.35
